@@ -287,17 +287,19 @@ As seguintes suposições são válidas no decorrer do desenvolvimento do sistem
     <thead>
         <tr>
             <th>Ident.</th>
-            <th scope="col">a</th>
+            <th scope="col">Descrição</th>
+	    <th scope="col">Casos de uso relacionados/th> 
         </tr>
     </thead>
     <tbody>
         <tr>
-            <th scope="row">Descrição</th>
-            <td>3,000</td>
+            <th scope="row">RNF/SEG-01</th>
         </tr>
         <tr>
-            <th scope="row">Casos de uso relacionados</th>
-            <td>18,000</td>
+            <th scope="row"> O sistema deve ter uma interface amigável, de fácil utilização, ou seja, auto explicável. 	</th>
+        </tr>
+	<tr>
+            <th scope="row"> </th>
         </tr>
     </tbody>
 </table>
