@@ -31,7 +31,7 @@ Versão 1.0 </br>
 <h5 align="right"> Índice </h5>
 <table align="center">
   <tr>
-    <td>1</td>
+	<td><b>1</b></td>
     <td>INTRODUÇÃO</td>
     <td> 4 </td>
   </tr>
@@ -51,12 +51,12 @@ Versão 1.0 </br>
     <td> 4 </td>
   </tr>
   <tr>
-    <td> &nbsp;&nbsp;1.4.1 -</td>
+    <td> &nbsp;&nbsp;&nbsp;&nbsp;1.4.1 -</td>
     <td> &nbsp;&nbsp;&nbsp;Convenções, termos e abreviações </td>
     <td> 4 </td>
   </tr>
   <tr>
-    <td> &nbsp;&nbsp;1.4.2 -</td>
+    <td> &nbsp;&nbsp;&nbsp;&nbsp;1.4.2 -</td>
     <td> &nbsp;&nbsp;&nbsp;Prioridade dos Requisitos </td>
     <td> 4 </td>
   </tr>
@@ -71,7 +71,7 @@ Versão 1.0 </br>
     <td> 4 </td>
   </tr>
  <tr>
-    <td>2</td>
+	 <td><b>2</b></td>
     <td> DESCRIÇÃO GERAL</td>
     <td> 4 </td>
   </tr>
@@ -91,7 +91,7 @@ Versão 1.0 </br>
     <td> 4 </td>
   </tr>
   <tr>
-    <td>3</td>
+	  <td><b>3</b></td>
     <td> REQUISITOS DO SOFTWARE</td>
     <td> 4 </td>
   </tr>
@@ -106,27 +106,27 @@ Versão 1.0 </br>
     <td> 4 </td>
   </tr>
   <tr>
-    <td> &nbsp;&nbsp; 3.2.1</td>
+    <td> &nbsp;&nbsp;&nbsp;&nbsp; 3.2.1</td>
     <td> &nbsp;&nbsp;&nbsp;Requisitos de Segurança </td>
     <td> 4 </td>
   </tr>
   <tr>
-    <td> &nbsp;&nbsp; 3.2.2</td>
+    <td> &nbsp;&nbsp;&nbsp;&nbsp; 3.2.2</td>
     <td> &nbsp;&nbsp;&nbsp;Requisitos de Interface </td>
     <td> 4 </td>
   </tr>
   <tr>
-    <td> &nbsp;&nbsp; 3.2.3</td>
+    <td> &nbsp;&nbsp;&nbsp;&nbsp; 3.2.3</td>
     <td> &nbsp;&nbsp;&nbsp;Requisitos de Operacionais </td>
     <td> 4 </td>
   </tr>
   <tr>
-    <td> &nbsp;&nbsp; 3.2.4</td>
+    <td> &nbsp;&nbsp;&nbsp;&nbsp; 3.2.4</td>
     <td> &nbsp;&nbsp;&nbsp;Requisitos de Confiabilidade </td>
     <td> 4 </td>
   </tr>
   <tr>
-    <td>4</td>
+	  <td><b>4</b></td>
     <td>CASOS DE USO</td>
     <td> 9 </td>
   </tr>
@@ -146,7 +146,7 @@ Versão 1.0 </br>
     <td> 4 </td>
   </tr>
    <tr>
-    <td>5</td>
+	   <td><b>5</b></td>
     <td>Classe</td>
     <td> 9 </td>
   </tr>
@@ -159,61 +159,6 @@ Versão 1.0 </br>
 
 
 
-<ol align="center">
-  <li>  </li>
-    <ul>
-      <li>1.1 - Propósito do documento de requisitos </li>
-      <li>1.2 - Escopo do produto</li>
-      <li>1.3 - Concepção do sistema</li>
-      <li>1.4.1 - Convenções, termos e abreviações</li>
-      <li>1.4.2	- Prioridade dos Requisitos</li>
-      <li>1.5- Referências</li>
-      <li>1.6	Visão Geral	</li>
-    </ul>
-  </li>
-  <li> 2 - DESCRIÇÃO GERAL</li>
-  <ul>
-      <li> 2.1	Usuários do sistema</li>
-      <li> 2.2	Abrangência e sistemas similares</li>
-      <li> 2.3	Suposições e dependências</li>
-    </ul>
-  <li>3	REQUISITOS DO SOFTWARE</li>
-   <ul>
-      <li> 2.1	Usuários do sistema</li>
-      <li> 2.2	Abrangência e sistemas similares</li>
-      <li> 2.3	Suposições e dependências</li>
-    </ul>
-</ol>
-
-
- 
-
-2.1	Usuários do sistema	6
-2.2	Abrangência e sistemas similares	6
-Sistemas similares:	6
-2.3	Suposições e dependências	6
-3	REQUISITOS DO SOFTWARE	7
-3.1	Requisitos Funcionais	7
-3.2	Requisitos Não-funcionais	7
-3.2.1	Requisitos de Segurança	7
-3.2.2	Requisitos de Interface	7
-3.2.3	Requisitos de Operacionais	7
-3.2.4	Requisitos de Confiabilidade	8
-4	CASOS DE USO	9
-4.1	Diagrama de casos de uso	9
-4.1.1	Usuário	9
-4.2	Descrição dos casos de uso	9
-4	Classe	9
-4.1	Diagrama de Classe
-
-
-
-
-
-
-
-
-Portal Itaú 2.0
 _______________________________________________________________________________________________________________________________________________________________________________________________________
 					Documento de Requisitos
 _______________________________________________________________________________________________________________________________________________________________________________________________________
