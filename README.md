@@ -29,7 +29,7 @@ Versão 1.0 </br>
 ----------------------------------------
 
 <h2 align="right"> Índice </h2>
-<table align="center">
+<table align="center" border="0">
   <tr>
 	<td><b>1</b></td>
     <td><b>INTRODUÇÃO</b></td>
@@ -281,6 +281,8 @@ As seguintes suposições são válidas no decorrer do desenvolvimento do sistem
 
 		
 <h3> 3.2.1 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Segurança </h3>  
+		
+
 Requisitos de Segurança
 Ident.
 Descrição
