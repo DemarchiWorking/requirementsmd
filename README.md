@@ -281,9 +281,28 @@ As seguintes suposições são válidas no decorrer do desenvolvimento do sistem
 
 		
 <h3> 3.2.1 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Segurança </h3>  
-		
 
-Requisitos de Segurança
+<table>
+    <caption>Requisitos de Segurança</caption>
+    <thead>
+        <tr>
+            <th>Ident.</th>
+            <th scope="col">a</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">Descrição</th>
+            <td>3,000</td>
+        </tr>
+        <tr>
+            <th scope="row">Casos de uso relacionados</th>
+            <td>18,000</td>
+        </tr>
+    </tbody>
+</table>
+
+
 Ident.
 Descrição
 Casos de uso relacionados
