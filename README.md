@@ -1,5 +1,5 @@
 ![header](https://mma.prnewswire.com/media/1807381/Stefanini_Group_Logo.jpg?p=facebook)
-
+<style>
 html, body {
     width: 100%;
     height: 100%;
@@ -21,6 +21,7 @@ html, body {
     width:calc(100% / 3);
     box-sizing: border-box;
 }
+</style>
 <div class="container">
     <div class="box">1</div>
     <div class="box">2</div>
