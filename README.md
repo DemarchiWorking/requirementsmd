@@ -24,8 +24,9 @@ Versão 1.0 </br>
     <td> 211 </td>
   </tr>
 </table>
-</br></br>
----------------------------------------------------------------------------------------------------------------------------------------------
+</br>
+
+----------------------------------------
 
 <h5 align="right"> Índice </h5>
 <table align="center">
@@ -35,28 +36,28 @@ Versão 1.0 </br>
     <td> 4 </td>
   </tr>
   <tr>
-    <td> 1.1</td>
+    <td> &nbsp;&nbsp; 1.1</td>
     <td> &nbsp; &nbsp; &nbsp; Propósito do documento de requisitos </td>
     <td> 4 </td>
   </tr>
   <tr>
-    <td> 1.2 -</td>
-    <td> Escopo do produto </td>
+    <td> &nbsp;&nbsp;1.2</td>
+    <td> &nbsp; &nbsp; &nbsp;Escopo do produto </td>
     <td> 4 </td>
   </tr>
   <tr>
-    <td> 1.3 -</td>
-    <td> Concepção do sistema </td>
+    <td> &nbsp;&nbsp;1.3</td>
+    <td> &nbsp;&nbsp;&nbsp;Concepção do sistema </td>
     <td> 4 </td>
   </tr>
   <tr>
-    <td> 1.4.1 -</td>
-    <td> Convenções, termos e abreviações </td>
+    <td> &nbsp;&nbsp;1.4.1 -</td>
+    <td> &nbsp;&nbsp;&nbsp;Convenções, termos e abreviações </td>
     <td> 4 </td>
   </tr>
   <tr>
-    <td> 1.4.2 -</td>
-    <td> Prioridade dos Requisitos </td>
+    <td> &nbsp;&nbsp;1.4.2 -</td>
+    <td> &nbsp;&nbsp;&nbsp;Prioridade dos Requisitos </td>
     <td> 4 </td>
   </tr>
 </table>
