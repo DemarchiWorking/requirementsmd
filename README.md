@@ -177,9 +177,10 @@ Versão 1.0 </br>
   </ul>
   <ul>
 	  <b>Administrativo</b> <p>Um microsserviço  para o painel de controle e visualização de logs.	</p>
+	  </br>
   </ul>
 </ol>
-
+</br>
 
 <h3> 1.3 &nbsp;&nbsp;&nbsp;&nbsp; Concepção do sistema</h3>  
 <p>
@@ -218,7 +219,7 @@ Foram adotadas as seguintes denominações para estabelecer a prioridade dos req
 <b>Importante:</b> é o requisito sem o qual o sistema entra em funcionamento, mas de maneira insatisfatória, ou seja, devem ser implementados, mas se não forem, o sistema poderá ser implantado e usado mesmo assim.</br>
 <b>Desejável:</b> é o requisito que não compromete as funcionalidades básicas do sistema, podendo funcionar de forma satisfatória sem ele, ou seja, são requisitos que podem ser deixados para versões posteriores do sistema, caso não haja tempo hábil para implementá-los na versão que está sendo especificada. 	
 </p>
-</br>
+</br></br>
 <h3> 1.5 &nbsp;&nbsp;&nbsp;&nbsp; Referências</h3>  
 <p>
 &nbsp;&nbsp;&nbsp; N/D
@@ -254,9 +255,9 @@ O sistema terá como objetivo carregar, visualizar e processar informações est
 </p>
 
 <p>Sistemas similares:</p>
-<i>Portal. </i>
-<i>Aplicações de RPA.</i>
-<i>Bots.</i>
+<i>Portal. </i></br>
+<i>Aplicações de RPA.</i></br>
+<i>Bots.</i></br>
 
 
 <h3> 2.3 &nbsp;&nbsp;&nbsp;&nbsp; Suposições e dependências </h3>  
