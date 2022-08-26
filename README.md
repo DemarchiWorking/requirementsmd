@@ -35,16 +35,34 @@ Versão 1.0 </br>
     <td> pg</td>
   </tr>
   <tr>
-    <td>1 - INTRODUÇÃO</td>
-    <td>1.1 - Propósito do documento de requisitos</td>
-    <td>Versão inicial do documento.</td>
-    <td> 211 </td>
+    <td>1 -</td>
+    <td> INTRODUÇÃO</td>
+    <td> 4 </td>
   </tr>
   <tr>
-    <td>1.2 - Escopo do produto</td>
-    <td>1.3 - Concepção do sistema</td>
-    <td>Versão inicial do documento.</td>
-    <td> 211 </td>
+    <td> 1.1 -</td>
+    <td> Propósito do documento de requisitos </td>
+    <td> 4 </td>
+  </tr>
+  <tr>
+    <td> 1.2 -</td>
+    <td> Escopo do produto </td>
+    <td> 4 </td>
+  </tr>
+  <tr>
+    <td> 1.3 -</td>
+    <td> Concepção do sistema </td>
+    <td> 4 </td>
+  </tr>
+  <tr>
+    <td> 1.4.1 -</td>
+    <td> Convenções, termos e abreviações </td>
+    <td> 4 </td>
+  </tr>
+  <tr>
+    <td> 1.4.2 -</td>
+    <td> Prioridade dos Requisitos </td>
+    <td> 4 </td>
   </tr>
 </table>
 
