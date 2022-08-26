@@ -159,12 +159,11 @@ Versão 1.0 </br>
 
 
 <h1>Documento de Requisitos</h1>
-
-<br>	
+</br></br>
 <h2 align="right">Introdução</h2>
 
 
-1.1 &nbsp;&nbsp;&nbsp; <h5>Propósito do documento de requisitos</h5><br>
+ <h5> 1.1 &nbsp;&nbsp;&nbsp;&nbsp; Propósito do documento de requisitos</h5>
 
 <p>Documentação tem o intuito de expressar as funcionalidades do sistema.</p>
 
