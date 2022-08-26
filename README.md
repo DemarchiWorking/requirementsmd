@@ -1,8 +1,38 @@
 ![header](https://mma.prnewswire.com/media/1807381/Stefanini_Group_Logo.jpg?p=facebook)
 
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    flex-direction: row-reverse;
+/* alinha o último item a esquerda */
+    justify-content: flex-end;
+}
+.box {
+    border: 1px solid #000;
+    height: 100px;
+    width:calc(100% / 3);
+    box-sizing: border-box;
+}
+<div class="container">
+    <div class="box">1</div>
+    <div class="box">2</div>
+    <div class="box">3</div>
+    <div class="box">4</div>
+    <div class="box">5</div>
+    <div class="box">6</div>
+</div>
+
 <table>
 <tr>
-	<td><img src="https://i0.wp.com/www.multarte.com.br/wp-content/uploads/2018/12/fundo-branco8-1024x548.jpg?resize=696%2C372&ssl=1"></td>
+	<td></td>
 	<td><h1 style="text-align:left>Portal Itaú 2.0</h1></td>
 </tr>
 </table>
