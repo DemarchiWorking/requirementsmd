@@ -25,60 +25,42 @@ Versão 1.0 </br>
   </tr>
 </table>
 
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
------------------------------------------------
-
-Data
-Versão
-Descrição
-Autor
+<h3 align="right">Portal Itaú 2.0</h3>
+<h5 align="right"> Índice </h5>
 
 
-1.0
-Versão inicial do documento
-211
+<ol align="center">
+  <li> 1 - INTRODUÇÃO </li>
+    <ul>
+      <li>1.1 - Propósito do documento de requisitos </li>
+      <li>1.2 - Escopo do produto</li>
+      <li>1.3 - Concepção do sistema</li>
+      <li>1.4.1 - Convenções, termos e abreviações</li>
+      <li>1.4.2	- Prioridade dos Requisitos</li>
+      <li>1.5- Referências</li>
+      <li>1.6	Visão Geral	</li>
+    </ul>
+  </li>
+  <li> 2 - DESCRIÇÃO GERAL</li>
+  <ul>
+      <li> 2.1	Usuários do sistema</li>
+      <li> 2.2	Abrangência e sistemas similares</li>
+      <li> 2.3	Suposições e dependências</li>
+    </ul>
+  <li>3	REQUISITOS DO SOFTWARE</li>
+   <ul>
+      <li> 2.1	Usuários do sistema</li>
+      <li> 2.2	Abrangência e sistemas similares</li>
+      <li> 2.3	Suposições e dependências</li>
+    </ul>
+</ol>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Portal Itaú 2.0
-Índice
  
-Nome do Sistema	4
-1	INTRODUÇÃO	4
-1.1	Propósito do documento de requisitos	4
-1.2	Escopo do produto	4
-1.3	Concepção do sistema	4
-1.4	Convenções, termos e abreviações	4
-1.4.1	Identificação dos Requisitos	4
-1.4.2	Prioridade dos Requisitos	4
-1.5	Referências	5
-1.6	Visão Geral	5
-2	DESCRIÇÃO GERAL	6
+
 2.1	Usuários do sistema	6
 2.2	Abrangência e sistemas similares	6
 Sistemas similares:	6
