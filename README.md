@@ -294,12 +294,8 @@ As seguintes suposições são válidas no decorrer do desenvolvimento do sistem
     <tbody>
         <tr>
             <th scope="row">RNF/SEG-01</th>
-        </tr>
-        <tr>
-            <th scope="row"> O sistema deve ter uma interface amigável, de fácil utilização, ou seja, auto explicável. 	</th>
-        </tr>
-	<tr>
-            <th scope="row"> </th>
+            <td scope="row"> O sistema deve ter uma interface amigável, de fácil utilização, ou seja, auto explicável. 	</td>
+            <td scope="row"> </td>
         </tr>
     </tbody>
 </table>
