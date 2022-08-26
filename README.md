@@ -30,18 +30,13 @@ Versão 1.0 </br>
 <h5 align="right"> Índice </h5>
 <table align="center">
   <tr>
-    <td>nº</td>
-    <td> descrição</td>
-    <td> pg</td>
-  </tr>
-  <tr>
     <td>1 -</td>
     <td> INTRODUÇÃO</td>
     <td> 4 </td>
   </tr>
   <tr>
-    <td> 1.1 -</td>
-    <td> Propósito do documento de requisitos </td>
+    <td> 1.1</td>
+    <td> &nbsp; &nbsp; &nbsp; Propósito do documento de requisitos </td>
     <td> 4 </td>
   </tr>
   <tr>
