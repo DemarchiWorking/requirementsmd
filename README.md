@@ -2,7 +2,7 @@
 
 <h1>Portal Itaú 2.0</h1>
 
-<div style="text-align:right">
+<div style="text-align:left">
 <h3>Documento de Requisitos</h3>
 <p style="font-weight: bold;">Simplificado </br>
 Versão 1.0 </br>
