@@ -28,7 +28,7 @@ Versão 1.0 </br>
 
 ----------------------------------------
 
-<h5 align="right"> Índice </h5>
+<h2 align="right"> Índice </h2>
 <table align="center">
   <tr>
 	<td><b>1</b></td>
@@ -264,81 +264,28 @@ As seguintes suposições são válidas no decorrer do desenvolvimento do sistem
 </ol>
 
 
-<b>Abrangência:</b>  
-O sistema terá como objetivo carregar, visualizar e processar informações estratégicas do Itaú.
-</p>	
-	
-Introdução
-Usuários do Sistema
-Usuário: Tem acesso a funções do sistema (exemplo: gestão,  faturamento, fornecedores, indicadores entre outros).
+<br><br>
+<h2 align="right">Requisitos do Software </h2>
 
-Administrador: Tem acesso ao painel administrativo e aos logs do sistema.
+<h3> 3.1 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos Funcionais </h3>  
+<p>		
+	<b><RF01></b><p>Cadastro de Usuários
+	O sistema deverá ter um formulário para cadastro de novos usuários.</p>
 
-Abrangência e sistemas similares
-Abrangência:  
-O sistema terá como objetivo carregar, visualizar e processar informações estratégicas do Itaú.
+	<b><RF02></b><p>Login
+	O sistema deverá mostrar informações apenas para usuários que fizerem login com suas credenciais de acesso.</p>
 
-Sistemas similares: 
-Portal
-Aplicações de RPA.
-Bots.
+	<b><RF03>Logoff</b><p>
+	O sistema deverá encerrar a sessão do usuário atual.</p>
+</p>
 
+<h3> 3.2 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos Não-funcionais </h3>  
+<p>
+	Os requisitos que descrevem os aspectos não-funcionais do sistema são apresentados a seguir:
+</p>
 
-Suposições e dependências
-As seguintes suposições são válidas no decorrer do desenvolvimento do sistema sendo especificado:
-O cliente está responsável pela aquisição de infraestrutura necessária em seu ambiente de produção;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Requisitos do Software 
-
-Requisitos Funcionais
-
-Aplicação 1 - Portal Itaú 2.0
-<RF01>Cadastro de Usuários
-O sistema deverá ter um formulário para cadastro de novos usuários.
-
-<RF02>Login
-O sistema deverá mostrar informações apenas para usuários que fizerem login com suas credenciais de acesso.
-
-<RF03>Logoff
-O sistema deverá encerrar a sessão do usuário atual.
-
-Requisitos Não-funcionais
-Os requisitos que descrevem os aspectos não-funcionais do sistema são apresentados a seguir:
-
+		
+<h3> 3.2.1 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Segurança </h3>  
 Requisitos de Segurança
 Ident.
 Descrição
@@ -347,8 +294,7 @@ RNF/SEG-01
 O usuário autorizado deverá efetuar login para poder realizar as operações no sistema.
 
 
-
-Requisitos de Interface
+<h3> 3.2.2 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Interface </h3>  
 Ident.
 Descrição
 Casos de uso relacionados
@@ -356,8 +302,8 @@ RNF/INT-01
 O sistema deve ter uma interface amigável, de fácil utilização, ou seja, auto explicável. 
 
 
-
-Requisitos de Operacionais
+<h3> 3.2.3 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Operacionais </h3>  
+		
 Ident.
 Descrição
 Casos de uso relacionados
@@ -372,23 +318,22 @@ O sistema deverá ter uma arquitetura de microsserviços
 RNF/OPE-03
 A camada de aplicação para web deverá ser compatível com browser do Google Chrome.
 
-
-
-Requisitos de Confiabilidade
+		
+<h3> 3.2.4 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Confiabilidade </h3>  
 Ident.
 Descrição
 Casos de uso relacionados
 RNF/CON-01
 O sistema deverá  armazenar os logs.
-
-
-
-
-
-Casos de uso
-Diagrama de casos de uso
-O diagrama de casos de uso, expresso em UML (Unified Modeling Language), expressa os requisitos funcionais do sistema na forma de casos de uso. Segundo o RUP (Rational Unified Process), para cada requisito funcional tem-se um caso de uso. A descrição textual detalhada dos requisitos funcionais, seus fluxos de atividades e requisitos não funcionais associados pode ser encontrada na próxima seção. Na figura abaixo mostramos a representação gráfica em UML dos casos de uso do sistema.
-
+	
+<br>
+<h2 align="right">Casos de uso</h2>
+<h3> 4.1 &nbsp;&nbsp;&nbsp;&nbsp; Diagrama de casos de uso </h3> 
+<p>
+O diagrama de casos de uso, expresso em UML (Unified Modeling Language), expressa os requisitos funcionais do sistema na forma de casos de uso. Segundo o RUP (Rational Unified Process), para cada requisito funcional tem-se um caso de uso. A descrição textual detalhada dos requisitos funcionais, seus fluxos de atividades e requisitos não funcionais associados pode ser encontrada na próxima seção. Na figura abaixo mostramos a representação gráfica em UML dos casos de uso do sistema.		
+</p>
+		
+<h3> 4.2 &nbsp;&nbsp;&nbsp;&nbsp; Descrição dos casos de uso </h3> 
 
 [CDU-01]
 Nome:
@@ -412,13 +357,15 @@ O usuário pode visualizar o faturamento.
 
 
 
+<br>
+<h2 align="right">Classe</h2>
+<h3> 4.1 &nbsp;&nbsp;&nbsp;&nbsp; Diagrama de Classes </h3> 
+<center><img src="https://i.ibb.co/bBcb1JR/image.png"></center>
 
 
 
 
 
-
-Diagrama de Classes
 
 
 
