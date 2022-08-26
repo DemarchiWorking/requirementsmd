@@ -2,8 +2,8 @@
 
 <h1>Portal Itaú 2.0</h1>
 
-<div style="display:block; text-align:right">
-<h3>Documento de Requisitos</h3>
+<div style="display:block; text-align:left">
+<h3 style="display:block; text-align:left">Documento de Requisitos</h3>
 <p style="font-weight: bold;">Simplificado </br>
 Versão 1.0 </br>
 2022 </br>
