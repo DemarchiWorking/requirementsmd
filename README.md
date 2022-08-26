@@ -32,7 +32,7 @@ Versão 1.0 </br>
 <table align="center">
   <tr>
 	<td><b>1</b></td>
-    <td>INTRODUÇÃO</td>
+    <td><b>INTRODUÇÃO</b></td>
     <td> 4 </td>
   </tr>
   <tr>
@@ -51,12 +51,12 @@ Versão 1.0 </br>
     <td> 4 </td>
   </tr>
   <tr>
-    <td> &nbsp;&nbsp;&nbsp;&nbsp;1.4.1 -</td>
+    <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4.1 -</td>
     <td> &nbsp;&nbsp;&nbsp;Convenções, termos e abreviações </td>
     <td> 4 </td>
   </tr>
   <tr>
-    <td> &nbsp;&nbsp;&nbsp;&nbsp;1.4.2 -</td>
+    <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4.2 -</td>
     <td> &nbsp;&nbsp;&nbsp;Prioridade dos Requisitos </td>
     <td> 4 </td>
   </tr>
@@ -72,7 +72,7 @@ Versão 1.0 </br>
   </tr>
  <tr>
 	 <td><b>2</b></td>
-    <td> DESCRIÇÃO GERAL</td>
+    <td> <b>DESCRIÇÃO GERAL</b></td>
     <td> 4 </td>
   </tr>
   <tr>
@@ -92,7 +92,7 @@ Versão 1.0 </br>
   </tr>
   <tr>
 	  <td><b>3</b></td>
-    <td> REQUISITOS DO SOFTWARE</td>
+    <td> <b>REQUISITOS DO SOFTWARE</b></td>
     <td> 4 </td>
   </tr>
   <tr>
@@ -106,28 +106,28 @@ Versão 1.0 </br>
     <td> 4 </td>
   </tr>
   <tr>
-    <td> &nbsp;&nbsp;&nbsp;&nbsp; 3.2.1</td>
+    <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.2.1</td>
     <td> &nbsp;&nbsp;&nbsp;Requisitos de Segurança </td>
     <td> 4 </td>
   </tr>
   <tr>
-    <td> &nbsp;&nbsp;&nbsp;&nbsp; 3.2.2</td>
+    <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.2.2</td>
     <td> &nbsp;&nbsp;&nbsp;Requisitos de Interface </td>
     <td> 4 </td>
   </tr>
   <tr>
-    <td> &nbsp;&nbsp;&nbsp;&nbsp; 3.2.3</td>
+    <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.2.3</td>
     <td> &nbsp;&nbsp;&nbsp;Requisitos de Operacionais </td>
     <td> 4 </td>
   </tr>
   <tr>
-    <td> &nbsp;&nbsp;&nbsp;&nbsp; 3.2.4</td>
+    <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.2.4</td>
     <td> &nbsp;&nbsp;&nbsp;Requisitos de Confiabilidade </td>
     <td> 4 </td>
   </tr>
   <tr>
 	  <td><b>4</b></td>
-    <td>CASOS DE USO</td>
+    <td><b>CASOS DE USO</b></td>
     <td> 9 </td>
   </tr>
   <tr>
@@ -147,7 +147,7 @@ Versão 1.0 </br>
   </tr>
    <tr>
 	   <td><b>5</b></td>
-    <td>Classe</td>
+	   <td><b>Classe</b></td>
     <td> 9 </td>
   </tr>
   <tr>
