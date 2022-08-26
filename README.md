@@ -288,59 +288,91 @@ As seguintes suposições são válidas no decorrer do desenvolvimento do sistem
         <tr>
             <th>Ident.</th>
             <th scope="col">Descrição</th>
-	    <th scope="col">Casos de uso relacionados/th> 
+	    <th scope="col">Casos de uso relacionados</th> 
         </tr>
     </thead>
     <tbody>
         <tr>
             <th scope="row">RNF/SEG-01</th>
-            <td scope="row"> O sistema deve ter uma interface amigável, de fácil utilização, ou seja, auto explicável. 	</td>
+            <td scope="row"> O usuário autorizado deverá efetuar login para poder realizar as operações no sistema. 	</td>
             <td scope="row"> </td>
         </tr>
     </tbody>
 </table>
 
 
-Ident.
-Descrição
-Casos de uso relacionados
-RNF/SEG-01
-O usuário autorizado deverá efetuar login para poder realizar as operações no sistema.
-
 
 <h3> 3.2.2 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Interface </h3>  
-Ident.
-Descrição
-Casos de uso relacionados
-RNF/INT-01
-O sistema deve ter uma interface amigável, de fácil utilização, ou seja, auto explicável. 
 
+<table>
+    <caption>Requisitos de Interface</caption>
+    <thead>
+        <tr>
+            <th>Ident.</th>
+            <th scope="col">Descrição</th>
+	    <th scope="col">Casos de uso relacionados</th> 
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">RNF/INT-01</th>
+            <td scope="row"> O sistema deve ter uma interface amigável, de fácil utilização, ou seja, auto explicável. 	</td>
+            <td scope="row"> </td>
+        </tr>
+    </tbody>
+</table>
 
 <h3> 3.2.3 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Operacionais </h3>  
-		
-Ident.
-Descrição
-Casos de uso relacionados
-RNF/OPE-01
-O sistema deve ser desenvolvido em C#
-
-
-RNF/OPE-02
-O sistema deverá ter uma arquitetura de microsserviços
-
-
-RNF/OPE-03
-A camada de aplicação para web deverá ser compatível com browser do Google Chrome.
-
-		
-<h3> 3.2.4 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Confiabilidade </h3>  
-Ident.
-Descrição
-Casos de uso relacionados
-RNF/CON-01
-O sistema deverá  armazenar os logs.
 	
+<table>
+    <caption>Requisitos de Interface</caption>
+    <thead>
+        <tr>
+            <th>Ident.</th>
+            <th scope="col">Descrição</th>
+	    <th scope="col">Casos de uso relacionados</th> 
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">RNF/OPE-01</th>
+            <td scope="row"> O sistema deve ser desenvolvido em C#. </td>
+            <td scope="row"> </td>
+        </tr>
+	 <tr>
+            <th scope="row">RNF/OPE-02</th>
+            <td scope="row"> O sistema deverá ter uma arquitetura de microsserviços. 	</td>
+            <td scope="row"> </td>
+        </tr>
+	 <tr>
+            <th scope="row">RNF/OPE-03</th>
+            <td scope="row"> A camada de aplicação para web deverá ser compatível com browser do Google Chrome.</td>
+            <td scope="row"> </td>
+        </tr>
+    </tbody>
+</table>
+		
+<h3> 3.2.4 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Confiabilidade </h3> 
+		
+<table>
+    <caption>Requisitos de Interface</caption>
+    <thead>
+        <tr>
+            <th>Ident.</th>
+            <th scope="col">Descrição</th>
+	    <th scope="col">Casos de uso relacionados</th> 
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">RNF/CON-01</th>
+            <td scope="row"> O sistema deverá  armazenar os logs. 	</td>
+            <td scope="row"> </td>
+        </tr>
+    </tbody>
+</table>	
 <br>
+		
 <h2 align="right">Casos de uso</h2>
 <h3> 4.1 &nbsp;&nbsp;&nbsp;&nbsp; Diagrama de casos de uso </h3> 
 <p>
@@ -376,7 +408,7 @@ O usuário pode visualizar o faturamento.
 <br>
 <h2 align="right">Classe</h2>
 <h3> 4.1 &nbsp;&nbsp;&nbsp;&nbsp; Diagrama de Classes </h3> 
-
+<center><img src="https://i.ibb.co/JFYmSCY/class-users-auth-v3.png"></center>
 
 
 
