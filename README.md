@@ -158,10 +158,8 @@ Versão 1.0 </br>
 </table>
 
 
-<br>
-_________________________________	
 <h1>Documento de Requisitos</h1>
-_________________________________
+
 <br>	
 <h3 align="right">Introdução</h3>
 1.1 &nbsp;&nbsp;&nbsp; <h5 align="right">Propósito do documento de requisitos</h5><br>
