@@ -251,7 +251,22 @@ O sistema terá como objetivo carregar, visualizar e processar informações est
 <i>Portal. </i>
 <i>Aplicações de RPA.</i>
 <i>Bots.</i>
-	
+
+
+<h3> 2.3 &nbsp;&nbsp;&nbsp;&nbsp; Suposições e dependências </h3>  
+<p>
+As seguintes suposições são válidas no decorrer do desenvolvimento do sistema sendo especificado:</p>
+
+<ol>
+  <ul>
+	  <li> O cliente está responsável pela aquisição de infraestrutura necessária em seu ambiente de produção; </li>
+  </ul>
+</ol>
+
+
+<b>Abrangência:</b>  
+O sistema terá como objetivo carregar, visualizar e processar informações estratégicas do Itaú.
+</p>	
 	
 Introdução
 Usuários do Sistema
