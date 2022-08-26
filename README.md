@@ -160,15 +160,15 @@ Versão 1.0 </br>
 </br></br>
 <h1>Documento de Requisitos</h1>
 </br>
-<h2 align="right">Introdução</h2>
+<h3 align="right">Introdução</h3>
 
 
- <h5> 1.1 &nbsp;&nbsp;&nbsp;&nbsp; Propósito do documento de requisitos</h5>
+ <h3> 1.1 &nbsp;&nbsp;&nbsp;&nbsp; Propósito do documento de requisitos</h3>
 
 <p>Documentação tem o intuito de expressar as funcionalidades do sistema.</p>
 
 
- <h5> 1.2 &nbsp;&nbsp;&nbsp;&nbsp; Escopo do produto</h5>
+ <h3> 1.2 &nbsp;&nbsp;&nbsp;&nbsp; Escopo do produto</h3>
 <i>O projeto consiste na documentação e refatoração de um portal, utilizando uma arquitetura de microsserviços. </i>
 <p><b>Autenticacao</b> - Um projeto em .Net Core para autenticação, criptografia e segurança.
 <b>Faturamento</b> - Um microsserviço para as funcionalidades de faturamento.
@@ -176,12 +176,12 @@ Versão 1.0 </br>
 <b>Administrativo</b> - Um microsserviço  para o painel de controle e visualização de logs.	
 </p>
 
-<h5> 1.3 &nbsp;&nbsp;&nbsp;&nbsp; Concepção do sistema</h5>  
+<h3> 1.3 &nbsp;&nbsp;&nbsp;&nbsp; Concepção do sistema</h3>  
 <p>
 &nbsp;&nbsp;&nbsp; N/D
 </p>
 
-<h5> 1.4 &nbsp;&nbsp;&nbsp;&nbsp;  Convenções, termos e abreviações </h5>
+<h3> 1.4 &nbsp;&nbsp;&nbsp;&nbsp;  Convenções, termos e abreviações </h3>
 <p>
 Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
 </p>
@@ -189,11 +189,13 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 <table align="center">
   <tr>
     <td>RPA</td>
+    <td>Automação robótica de processos</td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
   </tr>
-  <tr>
-    <td>Automação robótica de processos</td>
+   <tr>
     <td></td>
     <td></td>
   </tr>
@@ -204,7 +206,7 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 Cada requisito será unicamente identificado no formato [tipoRequisito.numero]. Para requisitos funcionais, o código do tipo de requisito será RF, e para requisitos não funcionais, RNF. Um número será assinalado a cada requisito de forma incremental, na ordem que forem mencionados neste documento.
 </p>
 
-<h4> 1.4.2 &nbsp;&nbsp;&nbsp;&nbsp; Prioridade dos Requisitos </h4>
+<h3> 1.4.2 &nbsp;&nbsp;&nbsp;&nbsp; Prioridade dos Requisitos </h3>
 <p>
 Foram adotadas as seguintes denominações para estabelecer a prioridade dos requisitos: essencial, importante e desejável. 
 <b>Essencial:</b> é o requisito sem o qual o sistema não entra em funcionamento, ou seja, são requisitos imprescindíveis tendo que ser implementados impreterivelmente. 
@@ -212,12 +214,12 @@ Foram adotadas as seguintes denominações para estabelecer a prioridade dos req
 <b>Desejável:</b> é o requisito que não compromete as funcionalidades básicas do sistema, podendo funcionar de forma satisfatória sem ele, ou seja, são requisitos que podem ser deixados para versões posteriores do sistema, caso não haja tempo hábil para implementá-los na versão que está sendo especificada. 	
 </p>
 
-<h5> 1.5 &nbsp;&nbsp;&nbsp;&nbsp; Referências</h5>  
+<h3> 1.5 &nbsp;&nbsp;&nbsp;&nbsp; Referências</h3>  
 <p>
 &nbsp;&nbsp;&nbsp; N/D
 </p>
 
-<h5> 1.5 &nbsp;&nbsp;&nbsp;&nbsp; Visão Geral </h5>  
+<h3> 1.5 &nbsp;&nbsp;&nbsp;&nbsp; Visão Geral </h3>  
 <p>	
 Este documento está organizado da seguinte forma:
 </p>
