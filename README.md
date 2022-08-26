@@ -136,11 +136,6 @@ Versão 1.0 </br>
     <td> 9 </td>
   </tr>
   <tr>
-    <td> &nbsp;&nbsp; 4.1.1</td>
-    <td> &nbsp;&nbsp;&nbsp;Usuário </td>
-    <td> 9 </td>
-  </tr>
-  <tr>
     <td> &nbsp;&nbsp; 4.2</td>
     <td> &nbsp;&nbsp;&nbsp;Descrição dos casos de uso </td>
     <td> 9 </td>
@@ -332,6 +327,8 @@ O sistema deverá  armazenar os logs.
 <p>
 O diagrama de casos de uso, expresso em UML (Unified Modeling Language), expressa os requisitos funcionais do sistema na forma de casos de uso. Segundo o RUP (Rational Unified Process), para cada requisito funcional tem-se um caso de uso. A descrição textual detalhada dos requisitos funcionais, seus fluxos de atividades e requisitos não funcionais associados pode ser encontrada na próxima seção. Na figura abaixo mostramos a representação gráfica em UML dos casos de uso do sistema.		
 </p>
+
+<center><img src="https://i.ibb.co/bBcb1JR/image.png"></center>
 		
 <h3> 4.2 &nbsp;&nbsp;&nbsp;&nbsp; Descrição dos casos de uso </h3> 
 
@@ -360,7 +357,7 @@ O usuário pode visualizar o faturamento.
 <br>
 <h2 align="right">Classe</h2>
 <h3> 4.1 &nbsp;&nbsp;&nbsp;&nbsp; Diagrama de Classes </h3> 
-<center><img src="https://i.ibb.co/bBcb1JR/image.png"></center>
+
 
 
 
