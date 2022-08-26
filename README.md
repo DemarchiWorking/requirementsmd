@@ -168,8 +168,7 @@ Versão 1.0 </br>
 <p>Documentação tem o intuito de expressar as funcionalidades do sistema.</p>
 
 
-1.2 &nbsp;&nbsp;&nbsp; <h5>Escopo do produto</h5><br>
-
+ <h5> 1.2 &nbsp;&nbsp;&nbsp;&nbsp; Escopo do produto</h5>
 <i>O projeto consiste na documentação e refatoração de um portal, utilizando uma arquitetura de microsserviços. </i>
 <p><b>Autenticacao</b> - Um projeto em .Net Core para autenticação, criptografia e segurança.
 <b>Faturamento</b> - Um microsserviço para as funcionalidades de faturamento.
@@ -177,18 +176,12 @@ Versão 1.0 </br>
 <b>Administrativo</b> - Um microsserviço  para o painel de controle e visualização de logs.	
 </p>
 
-1.3 &nbsp;&nbsp;&nbsp; <h5">Concepção do sistema</h5><br>
+<h5> 1.3 &nbsp;&nbsp;&nbsp;&nbsp; Concepção do sistema</h5>  
 <p>
-N/D
+&nbsp;&nbsp;&nbsp; N/D
 </p>
 
-
-1.4 &nbsp;&nbsp;&nbsp; <h5>Concepção do sistema</h5><br>
-<p>
-N/D
-</p>
-
-1.5 &nbsp;&nbsp;&nbsp; <h5> Convenções, termos e abreviações </h5>
+<h5> 1.4 &nbsp;&nbsp;&nbsp;&nbsp;  Convenções, termos e abreviações </h5>
 <p>
 Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
 </p>
@@ -206,63 +199,39 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
   </tr>
 </table>
 
-XXXXX
-
-Identificação dos Requisitos
+<h5> 1.4.1 &nbsp;&nbsp;&nbsp;&nbsp; Identificação dos Requisitos </h5>
+<p>
 Cada requisito será unicamente identificado no formato [tipoRequisito.numero]. Para requisitos funcionais, o código do tipo de requisito será RF, e para requisitos não funcionais, RNF. Um número será assinalado a cada requisito de forma incremental, na ordem que forem mencionados neste documento.
+</p>
 
-Prioridade dos Requisitos
+<h5> 1.4.2 &nbsp;&nbsp;&nbsp;&nbsp; Prioridade dos Requisitos </h5>
+<p>
 Foram adotadas as seguintes denominações para estabelecer a prioridade dos requisitos: essencial, importante e desejável. 
-Essencial: é o requisito sem o qual o sistema não entra em funcionamento, ou seja, são requisitos imprescindíveis tendo que ser implementados impreterivelmente. 
-Importante: é o requisito sem o qual o sistema entra em funcionamento, mas de maneira insatisfatória, ou seja, devem ser implementados, mas se não forem, o sistema poderá ser implantado e usado mesmo assim.
-Desejável: é o requisito que não compromete as funcionalidades básicas do sistema, podendo funcionar de forma satisfatória sem ele, ou seja, são requisitos que podem ser deixados para versões posteriores do sistema, caso não haja tempo hábil para implementá-los na versão que está sendo especificada. 
+<b>Essencial:</b> é o requisito sem o qual o sistema não entra em funcionamento, ou seja, são requisitos imprescindíveis tendo que ser implementados impreterivelmente. 
+<b>Importante:</b> é o requisito sem o qual o sistema entra em funcionamento, mas de maneira insatisfatória, ou seja, devem ser implementados, mas se não forem, o sistema poderá ser implantado e usado mesmo assim.
+<b>Desejável:</b> é o requisito que não compromete as funcionalidades básicas do sistema, podendo funcionar de forma satisfatória sem ele, ou seja, são requisitos que podem ser deixados para versões posteriores do sistema, caso não haja tempo hábil para implementá-los na versão que está sendo especificada. 	
+</p>
 
-Referências
+<h5> 1.5 &nbsp;&nbsp;&nbsp;&nbsp; Referências</h5>  
+<p>
+&nbsp;&nbsp;&nbsp; N/D
+</p>
 
-N/D
-Visão Geral
+<h5> 1.5 &nbsp;&nbsp;&nbsp;&nbsp; Visão Geral </h5>  
+<p>	
 Este documento está organizado da seguinte forma:
-A seção 1 apresentou uma introdução ao documento de requisitos e ao sistema sendo especificado;
-A seção 2 apresenta uma descrição geral do sistema;
-A seção 3 apresenta as definições dos requisitos funcionais e não-funcionais do sistema;
-A seção 4 apresenta o diagrama de casos de uso do sistema, bem como as descrições dos casos de uso definidos;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</p>
+<ol>
+  <li> A seção 1 apresentou uma introdução ao documento de requisitos e ao sistema sendo especificado; </li>
+  <li> A seção 2 apresenta uma descrição geral do sistema;</li>
+  <li>A seção 3 apresenta as definições dos requisitos funcionais e não-funcionais do sistema;</li>
+  <li>A seção 4 apresenta o diagrama de casos de uso do sistema, bem como as descrições dos casos de uso definidos;</li>
+</ol>
 
 
 
 
 Descrição geral
-Portal Itaú 2.0
 _______________________________________________________________________________________________________________________________________________________________________________________________________
 					Documento de Requisitos
 _______________________________________________________________________________________________________________________________________________________________________________________________________
