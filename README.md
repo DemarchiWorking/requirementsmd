@@ -9,7 +9,7 @@ Versão 1.0 </br>
 </p></b>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge" align="right"/> </br>
 
-<caption>Histórico de Revisões</caption>
+<b><h4><caption>Histórico de Revisões</caption></h4></b>
 <table>
   <tr>
     <td>Data</td>
