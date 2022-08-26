@@ -31,8 +31,8 @@ Versão 1.0 </br>
 <h5 align="right"> Índice </h5>
 <table align="center">
   <tr>
-    <td>1 -</td>
-    <td> INTRODUÇÃO</td>
+    <td>1</td>
+    <td>INTRODUÇÃO</td>
     <td> 4 </td>
   </tr>
   <tr>
@@ -58,6 +58,101 @@ Versão 1.0 </br>
   <tr>
     <td> &nbsp;&nbsp;1.4.2 -</td>
     <td> &nbsp;&nbsp;&nbsp;Prioridade dos Requisitos </td>
+    <td> 4 </td>
+  </tr>
+  <tr>
+    <td> &nbsp;&nbsp;1.5 -</td>
+    <td> &nbsp;&nbsp;&nbsp;Referências </td>
+    <td> 4 </td>
+  </tr>
+  <tr>
+    <td> &nbsp;&nbsp;1.6 -</td>
+    <td> &nbsp;&nbsp;&nbsp; Visão Geral</td>
+    <td> 4 </td>
+  </tr>
+ <tr>
+    <td>2</td>
+    <td> DESCRIÇÃO GERAL</td>
+    <td> 4 </td>
+  </tr>
+  <tr>
+    <td> &nbsp;&nbsp; 2.1</td>
+    <td> &nbsp;&nbsp;&nbsp;Usuários do sistema </td>
+    <td> 4 </td>
+  </tr>
+  <tr>
+    <td> &nbsp;&nbsp; 2.2</td>
+    <td> &nbsp;&nbsp;&nbsp; Abrangência e sistemas similares </td>
+    <td> 4 </td>
+  </tr>
+  <tr>
+    <td> &nbsp;&nbsp; 2.3</td>
+    <td> &nbsp;&nbsp;&nbsp;Suposições e dependências</td>
+    <td> 4 </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td> REQUISITOS DO SOFTWARE</td>
+    <td> 4 </td>
+  </tr>
+  <tr>
+    <td> &nbsp;&nbsp; 3.1</td>
+    <td> &nbsp;&nbsp;&nbsp;Requisitos Funcionais </td>
+    <td> 4 </td>
+  </tr>
+  <tr>
+    <td> &nbsp;&nbsp; 3.2</td>
+    <td> &nbsp;&nbsp;&nbsp;Requisitos Não-funcionais </td>
+    <td> 4 </td>
+  </tr>
+  <tr>
+    <td> &nbsp;&nbsp; 3.2.1</td>
+    <td> &nbsp;&nbsp;&nbsp;Requisitos de Segurança </td>
+    <td> 4 </td>
+  </tr>
+  <tr>
+    <td> &nbsp;&nbsp; 3.2.2</td>
+    <td> &nbsp;&nbsp;&nbsp;Requisitos de Interface </td>
+    <td> 4 </td>
+  </tr>
+  <tr>
+    <td> &nbsp;&nbsp; 3.2.3</td>
+    <td> &nbsp;&nbsp;&nbsp;Requisitos de Operacionais </td>
+    <td> 4 </td>
+  </tr>
+  <tr>
+    <td> &nbsp;&nbsp; 3.2.4</td>
+    <td> &nbsp;&nbsp;&nbsp;Requisitos de Confiabilidade </td>
+    <td> 4 </td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>CASOS DE USO</td>
+    <td> 9 </td>
+  </tr>
+  <tr>
+    <td> &nbsp;&nbsp; 4.1</td>
+    <td> &nbsp;&nbsp;&nbsp;Diagrama de casos de uso </td>
+    <td> 4 </td>
+  </tr>
+  <tr>
+    <td> &nbsp;&nbsp; 4.1.1</td>
+    <td> &nbsp;&nbsp;&nbsp;Usuário </td>
+    <td> 4 </td>
+  </tr>
+  <tr>
+    <td> &nbsp;&nbsp; 4.2</td>
+    <td> &nbsp;&nbsp;&nbsp;Descrição dos casos de uso </td>
+    <td> 4 </td>
+  </tr>
+   <tr>
+    <td>5</td>
+    <td>Classe</td>
+    <td> 9 </td>
+  </tr>
+  <tr>
+    <td> &nbsp;&nbsp; 5.1</td>
+    <td> &nbsp;&nbsp;&nbsp;Diagrama de Classe</td>
     <td> 4 </td>
   </tr>
 </table>
