@@ -262,8 +262,7 @@ As seguintes suposições são válidas no decorrer do desenvolvimento do sistem
 <br><br>
 <h2 align="right">Requisitos do Software </h2>
 
-<h3> 3.1 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos Funcionais </h3>  
-<p>		
+<h3> 3.1 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos Funcionais </h3>  		
 	<b><RF01></b><p>Cadastro de Usuários
 	O sistema deverá ter um formulário para cadastro de novos usuários.</p>
 
@@ -272,7 +271,7 @@ As seguintes suposições são válidas no decorrer do desenvolvimento do sistem
 
 	<b><RF03>Logoff</b><p>
 	O sistema deverá encerrar a sessão do usuário atual.</p>
-</p>
+
 
 <h3> 3.2 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos Não-funcionais </h3>  
 <p>
