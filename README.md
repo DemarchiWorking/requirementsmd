@@ -10,7 +10,9 @@ Versão 1.0 </br>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge" align="right"/> </br>
 
 <table>
-	<th><caption>Histórico de Revisões</caption></th>
+	<tr>
+		<th><caption>Histórico de Revisões</caption></th>
+	</tr>
   <tr>
     <td>Data</td>
     <td>Versão</td>
@@ -19,16 +21,16 @@ Versão 1.0 </br>
   </tr>
   <tr>
     <td>26-08-2022</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td>1.0</td>
+    <td>Versão inicial do documento. </td>
+  </tr>
+  <tr>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Versão inicial do documento. </td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
