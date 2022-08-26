@@ -163,11 +163,23 @@ Versão 1.0 </br>
 
 
  <h3> 1.2 &nbsp;&nbsp;&nbsp;&nbsp; Escopo do produto</h3>
-<i>O projeto consiste na documentação e refatoração de um portal, utilizando uma arquitetura de microsserviços. </i>
-<b>Autenticacao</b> <p> - Um projeto em .Net Core para autenticação, criptografia e segurança. </p>
-<b>Faturamento</b> <p> - Um microsserviço para as funcionalidades de faturamento.</p>
-<b>Indicadores</b> <p> - Um microsserviço para funcionalidades relacionadas aos indicadores.</p>
-<b>Administrativo</b> <p> - Um microsserviço  para o painel de controle e visualização de logs.	</p>
+<p>O projeto consiste na documentação e refatoração de um portal, utilizando uma arquitetura de microsserviços. </p>
+
+<ol>
+  <ul>
+	  <li> <b>Autenticacao</b> <p> - Um projeto em .Net Core para autenticação, criptografia e segurança. </p> </li>
+  </ul>
+   <ul>
+	  <li> <b>Faturamento</b> <p> - Um microsserviço para as funcionalidades de faturamento.</p> </li>
+  </ul>
+  <ul>
+	  <b>Indicadores</b> <p> - Um microsserviço para funcionalidades relacionadas aos indicadores.</p>
+  </ul>
+  <ul>
+	  <b>Administrativo</b> <p> - Um microsserviço  para o painel de controle e visualização de logs.	</p>
+  </ul>
+</ol>
+
 
 <h3> 1.3 &nbsp;&nbsp;&nbsp;&nbsp; Concepção do sistema</h3>  
 <p>
