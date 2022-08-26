@@ -20,17 +20,8 @@ Versão 1.0 </br>
   <tr>
     <td>26-08-2022</td>
     <td>1.0</td>
-    <td>Versão inicial do documento. </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Versão inicial do documento.</td>
+    <td> 211 </td>
   </tr>
 </table>
 
