@@ -1,6 +1,10 @@
 ![header](https://mma.prnewswire.com/media/1807381/Stefanini_Group_Logo.jpg?p=facebook)
 
 <p align="right">
+<h3 style="text-align:right">Documento de Requisitos</h3>
+<p style="font-weight: bold;">Simplificado </br>
+Versão 1.0 </br>
+2022 </br>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
@@ -12,10 +16,6 @@
 </tr>
 </table>
 <br>
-<h3 style="text-align:right">Documento de Requisitos</h3>
-<p style="font-weight: bold;">Simplificado </br>
-Versão 1.0 </br>
-2022 </br>
 </p>
 
 <table>
