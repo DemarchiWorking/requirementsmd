@@ -279,10 +279,10 @@ As seguintes suposições são válidas no decorrer do desenvolvimento do sistem
 <b>[RF01]</b> Cadastro de Usuários
 O sistema deverá ter um formulário para cadastro de novos usuários.
 
-[RF02] Login
+<b>[RF02]</b> Login
 O sistema deverá mostrar informações apenas para usuários que fizerem login com suas credenciais de acesso.
 
-[RF03] Logoff
+<b>[RF03]</b> Logoff
 O sistema deverá encerrar a sessão do usuário atual.
 
 
