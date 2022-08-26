@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-	<td style="height:80%;">Pt</td>
+	<td style="width:80%;">Pt</td>
 	<td><h1 style="text-align:left>Portal Itaú 2.0</h1></td>
 </tr>
 </table>
