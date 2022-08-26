@@ -254,7 +254,7 @@ Este documento está organizado da seguinte forma:
 O sistema terá como objetivo carregar, visualizar e processar informações estratégicas do Itaú.
 </p>
 
-<p>Sistemas similares:</p>
+<b>Sistemas similares:</b>
 <i>Portal. </i></br>
 <i>Aplicações de RPA.</i></br>
 <i>Bots.</i></br>
@@ -274,7 +274,8 @@ As seguintes suposições são válidas no decorrer do desenvolvimento do sistem
 <br><br>
 <h2 align="right">Requisitos do Software </h2>
 
-<h3> 3.1 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos Funcionais </h3>  		
+<h3> 3.1 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos Funcionais </h3>  	
+
 	<b>[RF01]</b><p>Cadastro de Usuários
 	O sistema deverá ter um formulário para cadastro de novos usuários.</p>
 
