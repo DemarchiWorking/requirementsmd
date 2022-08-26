@@ -1,18 +1,20 @@
 ![header](https://mma.prnewswire.com/media/1807381/Stefanini_Group_Logo.jpg?p=facebook)
 
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge" align="right"/> </br>
-<b><h2 align="right">Documento de Requisitos</h2></b></br>
+<b><h1 align="right">Portal Itaú 2.0</h1></b>
+<b><h3 align="right">Documento de Requisitos</h3></b></br>
 <b><p align="right">	
 Simplificado </br>
 Versão 1.0 </br>
 2022 </br>
 </p></b>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge" align="right"/> </br>
+
 
 <p align=”left”> test </p>
 <p align=”right”> test </p>
 
 <table>
-	<td><h1 style="text-align:left>Portal Itaú 2.0</h1></td>
+	
 </tr>
 </table>
 <br>
