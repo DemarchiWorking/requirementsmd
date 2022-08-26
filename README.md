@@ -9,38 +9,28 @@ Versão 1.0 </br>
 </p></b>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge" align="right"/> </br>
 
-
-<p align=”left”> test </p>
-<p align=”right”> test </p>
-
 <table>
-	
-</tr>
-</table>
-<br>
-</p>
-
-<table>
-  <caption>Histórico de Revisões</caption>
+	<th><caption>Histórico de Revisões</caption></th>
   <tr>
-    <td>PHP</td>
-    <td>Laravel</td>
-    <td>Composer</td>
+    <td>Data</td>
+    <td>Versão</td>
+    <td>Descrição</td>
+    <td>Autor</td>
   </tr>
   <tr>
-    <td>6.*</td>
-    <td>7.4</td>
-    <td>2.0</td>
+    <td>26-08-2022</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td>6.*</td>
-    <td>7.4</td>
-    <td>2.0</td>
+    <td>1.0</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td>6.*</td>
-    <td>7.4</td>
-    <td>2.0</td>
+    <td>Versão inicial do documento. </td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
