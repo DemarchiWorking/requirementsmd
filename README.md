@@ -167,16 +167,16 @@ Versão 1.0 </br>
 
 <ol>
   <ul>
-	  <li> <b>Autenticacao</b> <p> - Um projeto em .Net Core para autenticação, criptografia e segurança. </p> </li>
+	  <b>Autenticacao</b> <p>Um projeto em .Net Core para autenticação, criptografia e segurança. </p>
   </ul>
    <ul>
-	  <li> <b>Faturamento</b> <p> - Um microsserviço para as funcionalidades de faturamento.</p> </li>
+	  <b>Faturamento</b> <p>Um microsserviço para as funcionalidades de faturamento.</p>
   </ul>
   <ul>
-	  <b>Indicadores</b> <p> - Um microsserviço para funcionalidades relacionadas aos indicadores.</p>
+	  <b>Indicadores</b> <p>Um microsserviço para funcionalidades relacionadas aos indicadores.</p>
   </ul>
   <ul>
-	  <b>Administrativo</b> <p> - Um microsserviço  para o painel de controle e visualização de logs.	</p>
+	  <b>Administrativo</b> <p>Um microsserviço  para o painel de controle e visualização de logs.	</p>
   </ul>
 </ol>
 
