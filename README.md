@@ -160,8 +160,13 @@ Versão 1.0 </br>
 
 
 _________________________________	
-<h3 text="blue">Documento de Requisitos</h3>
-
+<h1>Documento de Requisitos</h1>
+_________________________________
+_________________________________	
+<h3>Documento de Requisitos</h3>
+_________________________________
+_________________________________	
+<h5>Propósito do documento de requisitos</h5>
 _________________________________
 Introdução
 
