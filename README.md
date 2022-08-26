@@ -157,9 +157,9 @@ Versão 1.0 </br>
   </tr>
 </table>
 
-
-<h1>Documento de Requisitos</h1>
 </br></br>
+<h1>Documento de Requisitos</h1>
+</br>
 <h2 align="right">Introdução</h2>
 
 
@@ -199,12 +199,12 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
   </tr>
 </table>
 
-<h5> 1.4.1 &nbsp;&nbsp;&nbsp;&nbsp; Identificação dos Requisitos </h5>
+<h3> 1.4.1 &nbsp;&nbsp;&nbsp;&nbsp; Identificação dos Requisitos </h3>
 <p>
 Cada requisito será unicamente identificado no formato [tipoRequisito.numero]. Para requisitos funcionais, o código do tipo de requisito será RF, e para requisitos não funcionais, RNF. Um número será assinalado a cada requisito de forma incremental, na ordem que forem mencionados neste documento.
 </p>
 
-<h5> 1.4.2 &nbsp;&nbsp;&nbsp;&nbsp; Prioridade dos Requisitos </h5>
+<h4> 1.4.2 &nbsp;&nbsp;&nbsp;&nbsp; Prioridade dos Requisitos </h4>
 <p>
 Foram adotadas as seguintes denominações para estabelecer a prioridade dos requisitos: essencial, importante e desejável. 
 <b>Essencial:</b> é o requisito sem o qual o sistema não entra em funcionamento, ou seja, são requisitos imprescindíveis tendo que ser implementados impreterivelmente. 
