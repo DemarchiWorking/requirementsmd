@@ -1,7 +1,12 @@
 ![header](https://mma.prnewswire.com/media/1807381/Stefanini_Group_Logo.jpg?p=facebook)
 
-<h1 style="text-align:left>Portal Itaú 2.0</h1>
-
+<table>
+<tr>
+	<td style="width:80%"><h1 style="text-align:left>Portal Itaú 2.0</h1></td>
+	<td><h1 style="text-align:left>Portal Itaú 2.0</h1></td>
+</tr>
+</table>
+<br>
 <h3 style="text-align:right">Documento de Requisitos</h3>
 <p style="font-weight: bold;">Simplificado </br>
 Versão 1.0 </br>
