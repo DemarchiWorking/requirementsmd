@@ -159,8 +159,7 @@ Versão 1.0 </br>
 
 </br></br>
 <h1>Documento de Requisitos</h1>
-</br>
-<h3 align="right">Introdução</h3>
+<h2 align="right">Introdução</h2>
 
 
  <h3> 1.1 &nbsp;&nbsp;&nbsp;&nbsp; Propósito do documento de requisitos</h3>
@@ -224,19 +223,36 @@ Foram adotadas as seguintes denominações para estabelecer a prioridade dos req
 Este documento está organizado da seguinte forma:
 </p>
 <ol>
-  <li> A seção 1 apresentou uma introdução ao documento de requisitos e ao sistema sendo especificado; </li>
-  <li> A seção 2 apresenta uma descrição geral do sistema;</li>
-  <li>A seção 3 apresenta as definições dos requisitos funcionais e não-funcionais do sistema;</li>
-  <li>A seção 4 apresenta o diagrama de casos de uso do sistema, bem como as descrições dos casos de uso definidos;</li>
+  <ul>
+	  <li> A seção 1 apresentou uma introdução ao documento de requisitos e ao sistema sendo especificado; </li>
+	  <li> A seção 2 apresenta uma descrição geral do sistema;</li>
+	  <li>A seção 3 apresenta as definições dos requisitos funcionais e não-funcionais do sistema;</li>
+	  <li>A seção 4 apresenta o diagrama de casos de uso do sistema, bem como as descrições dos casos de uso definidos;</li>
+  </ul>
 </ol>
 
 
+<br>
+<h2 align="right">Descrição geral</h2>
 
+<h3> 2.1 &nbsp;&nbsp;&nbsp;&nbsp; Usuários do Sistema </h3>  
+<p>	
+<b>Usuário: </b>Tem acesso a funções do sistema (exemplo: gestão,  faturamento, fornecedores, indicadores entre outros).</p>
 
-Descrição geral
-_______________________________________________________________________________________________________________________________________________________________________________________________________
-					Documento de Requisitos
-_______________________________________________________________________________________________________________________________________________________________________________________________________
+<p><b>Administrador: </b>Tem acesso ao painel administrativo e aos logs do sistema.</p>
+
+<h3> 2.2 &nbsp;&nbsp;&nbsp;&nbsp; Abrangência e sistemas similares </h3>  
+<p>
+<b>Abrangência:</b>  
+O sistema terá como objetivo carregar, visualizar e processar informações estratégicas do Itaú.
+</p>
+
+<p>Sistemas similares:</p>
+<i>Portal. </i>
+<i>Aplicações de RPA.</i>
+<i>Bots.</i>
+	
+	
 Introdução
 Usuários do Sistema
 Usuário: Tem acesso a funções do sistema (exemplo: gestão,  faturamento, fornecedores, indicadores entre outros).
