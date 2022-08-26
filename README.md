@@ -27,7 +27,6 @@ Versão 1.0 </br>
 </br>
 
 ----------------------------------------
-<img src="https://img.shields.io/static/v1?label=Blog&message=TESTAAASDASD&color=7159c1&style=for-the-badge&logo=ghost"/>
 
 <h5 align="right"> Índice </h5>
 <table align="center">
@@ -164,14 +163,13 @@ Versão 1.0 </br>
 <br>	
 <h2 align="right">Introdução</h2>
 
-<span style="color: green"> Some green text </span>
 
 1.1 &nbsp;&nbsp;&nbsp; <h5>Propósito do documento de requisitos</h5><br>
 
 <p>Documentação tem o intuito de expressar as funcionalidades do sistema.</p>
 
 
-1.2 &nbsp;&nbsp;&nbsp; <h5 align="right">Escopo do produto</h5><br>
+1.2 &nbsp;&nbsp;&nbsp; <h5>Escopo do produto</h5><br>
 
 <i>O projeto consiste na documentação e refatoração de um portal, utilizando uma arquitetura de microsserviços. </i>
 <p><b>Autenticacao</b> - Um projeto em .Net Core para autenticação, criptografia e segurança.
@@ -180,18 +178,18 @@ Versão 1.0 </br>
 <b>Administrativo</b> - Um microsserviço  para o painel de controle e visualização de logs.	
 </p>
 
-1.3 &nbsp;&nbsp;&nbsp; <h5 align="right">Concepção do sistema</h5><br>
+1.3 &nbsp;&nbsp;&nbsp; <h5">Concepção do sistema</h5><br>
 <p>
 N/D
 </p>
 
 
-1.4 &nbsp;&nbsp;&nbsp; <h5 align="right">Concepção do sistema</h5><br>
+1.4 &nbsp;&nbsp;&nbsp; <h5>Concepção do sistema</h5><br>
 <p>
 N/D
 </p>
 
-1.5 &nbsp;&nbsp;&nbsp; <h5 align="right"> Convenções, termos e abreviações </h5>
+1.5 &nbsp;&nbsp;&nbsp; <h5> Convenções, termos e abreviações </h5>
 <p>
 Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
 </p>
