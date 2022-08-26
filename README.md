@@ -254,7 +254,7 @@ Este documento está organizado da seguinte forma:
 O sistema terá como objetivo carregar, visualizar e processar informações estratégicas do Itaú.
 </p>
 
-<b>Sistemas similares:</b>
+<b>Sistemas similares:</b><br>
 <i>Portal. </i></br>
 <i>Aplicações de RPA.</i></br>
 <i>Bots.</i></br>
@@ -276,14 +276,14 @@ As seguintes suposições são válidas no decorrer do desenvolvimento do sistem
 
 <h3> 3.1 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos Funcionais </h3>  	
 
-	<b>[RF01]</b>Cadastro de Usuários
-	O sistema deverá ter um formulário para cadastro de novos usuários.
+<b>[RF01]</b> Cadastro de Usuários
+O sistema deverá ter um formulário para cadastro de novos usuários.
 
-	<b>[RF02]</b>Login
-	O sistema deverá mostrar informações apenas para usuários que fizerem login com suas credenciais de acesso.
+[RF02] Login
+O sistema deverá mostrar informações apenas para usuários que fizerem login com suas credenciais de acesso.
 
-	<b>[RF03]</b>Logoff
-	O sistema deverá encerrar a sessão do usuário atual.
+[RF03] Logoff
+O sistema deverá encerrar a sessão do usuário atual.
 
 
 <h3> 3.2 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos Não-funcionais </h3>  
