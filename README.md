@@ -51,79 +51,79 @@ Versão 1.0 </br>
     <td> 4 </td>
   </tr>
   <tr>
-    <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4.1 -</td>
+    <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4.1</td>
     <td> &nbsp;&nbsp;&nbsp;Convenções, termos e abreviações </td>
     <td> 4 </td>
   </tr>
   <tr>
-    <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4.2 -</td>
+    <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4.2</td>
     <td> &nbsp;&nbsp;&nbsp;Prioridade dos Requisitos </td>
     <td> 4 </td>
   </tr>
   <tr>
-    <td> &nbsp;&nbsp;1.5 -</td>
+    <td> &nbsp;&nbsp;1.5</td>
     <td> &nbsp;&nbsp;&nbsp;Referências </td>
-    <td> 4 </td>
+    <td> 5 </td>
   </tr>
   <tr>
-    <td> &nbsp;&nbsp;1.6 -</td>
+    <td> &nbsp;&nbsp;1.6</td>
     <td> &nbsp;&nbsp;&nbsp; Visão Geral</td>
-    <td> 4 </td>
+    <td> 5 </td>
   </tr>
  <tr>
 	 <td><b>2</b></td>
     <td> <b>DESCRIÇÃO GERAL</b></td>
-    <td> 4 </td>
+    <td> 6 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 2.1</td>
     <td> &nbsp;&nbsp;&nbsp;Usuários do sistema </td>
-    <td> 4 </td>
+    <td> 6 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 2.2</td>
     <td> &nbsp;&nbsp;&nbsp; Abrangência e sistemas similares </td>
-    <td> 4 </td>
+    <td> 6 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 2.3</td>
     <td> &nbsp;&nbsp;&nbsp;Suposições e dependências</td>
-    <td> 4 </td>
+    <td> 6 </td>
   </tr>
   <tr>
 	  <td><b>3</b></td>
     <td> <b>REQUISITOS DO SOFTWARE</b></td>
-    <td> 4 </td>
+    <td> 7 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 3.1</td>
     <td> &nbsp;&nbsp;&nbsp;Requisitos Funcionais </td>
-    <td> 4 </td>
+    <td> 7 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 3.2</td>
     <td> &nbsp;&nbsp;&nbsp;Requisitos Não-funcionais </td>
-    <td> 4 </td>
+    <td> 7 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.2.1</td>
     <td> &nbsp;&nbsp;&nbsp;Requisitos de Segurança </td>
-    <td> 4 </td>
+    <td> 7 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.2.2</td>
     <td> &nbsp;&nbsp;&nbsp;Requisitos de Interface </td>
-    <td> 4 </td>
+    <td> 7 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.2.3</td>
     <td> &nbsp;&nbsp;&nbsp;Requisitos de Operacionais </td>
-    <td> 4 </td>
+    <td> 7 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.2.4</td>
     <td> &nbsp;&nbsp;&nbsp;Requisitos de Confiabilidade </td>
-    <td> 4 </td>
+    <td> 8 </td>
   </tr>
   <tr>
 	  <td><b>4</b></td>
@@ -133,35 +133,36 @@ Versão 1.0 </br>
   <tr>
     <td> &nbsp;&nbsp; 4.1</td>
     <td> &nbsp;&nbsp;&nbsp;Diagrama de casos de uso </td>
-    <td> 4 </td>
+    <td> 9 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 4.1.1</td>
     <td> &nbsp;&nbsp;&nbsp;Usuário </td>
-    <td> 4 </td>
+    <td> 9 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 4.2</td>
     <td> &nbsp;&nbsp;&nbsp;Descrição dos casos de uso </td>
-    <td> 4 </td>
+    <td> 9 </td>
   </tr>
    <tr>
 	   <td><b>5</b></td>
 	   <td><b>Classe</b></td>
-    <td> 9 </td>
+    <td> 10 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 5.1</td>
     <td> &nbsp;&nbsp;&nbsp;Diagrama de Classe</td>
-    <td> 4 </td>
+    <td> 10 </td>
   </tr>
 </table>
 
 
 
-_______________________________________________________________________________________________________________________________________________________________________________________________________
-					Documento de Requisitos
-_______________________________________________________________________________________________________________________________________________________________________________________________________
+_________________________________	
+<h3 text="blue">Documento de Requisitos</h3>
+
+_________________________________
 Introdução
 
 Propósito do documento de requisitos
