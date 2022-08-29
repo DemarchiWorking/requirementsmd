@@ -395,16 +395,46 @@ O diagrama de casos de uso, expresso em UML (Unified Modeling Language), express
 		
 <h3> 4.2 &nbsp;&nbsp;&nbsp;&nbsp; Descrição dos casos de uso </h3> 
 
-[CDU-01]
-Nome:
-Realizar atividades
-Atores:
-Usuário
-Prioridade:
-Essencial
-Requisitos associados:
-[RNF/SEG-01]
-Entradas e pré-condições:
+
+
+<table>
+    <caption>[CDU-01]</caption>
+    <thead>
+	 <tr>
+		 <th> CDU </th>
+	</tr>
+        <tr>
+            <th>Nome:</th>
+            <th scope="col">Atores:</th>
+	    <th scope="col"> Prioridade: </th> 
+	    <th scope="col"> Requisitos associados: </th> 
+	    <th scope="col"> Entradas e pré-condições: </th> 
+		
+		
+		
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">Realizar atividades </th>
+            <td scope="row"> Usuário </td>
+            <td scope="row"> Essencial </td>
+            <td scope="row"> [RNF/SEG-01] </td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
 O usuário deverá executar a aplicação.
 Saídas e pós-condições:
 O usuário consegue realizar as atividades.
@@ -419,7 +449,7 @@ O usuário pode visualizar o faturamento.
 
 <br>
 <h2 align="right"> 5 - CLASSE</h2>
-<h3> 4.1 &nbsp;&nbsp;&nbsp;&nbsp; Diagrama de Classes </h3> 
+<h3> 5.1 &nbsp;&nbsp;&nbsp;&nbsp; Diagrama de Classes </h3> 
 <center><img src="https://i.ibb.co/JFYmSCY/class-users-auth-v3.png"></center>
 
 
