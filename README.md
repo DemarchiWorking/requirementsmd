@@ -400,27 +400,37 @@ O diagrama de casos de uso, expresso em UML (Unified Modeling Language), express
 <table>
     <caption>[CDU-01]</caption>
     <thead>
-	 <tr>
-		 <th> CDU </th>
-	</tr>
         <tr>
-            <th>Nome:</th>
-            <th scope="col">Atores:</th>
-	    <th scope="col"> Prioridade: </th> 
-	    <th scope="col"> Requisitos associados: </th> 
+            <th>Nome:</th>		
+            <td scope="row">Realizar atividades </td>
 	    <th scope="col"> Entradas e pré-condições: </th> 
-		
-		
-		
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <th scope="row">Realizar atividades </th>
+        <tr>		
+            <th scope="col">Atores:</th>
             <td scope="row"> Usuário </td>
-            <td scope="row"> Essencial </td>
-            <td scope="row"> [RNF/SEG-01] </td>
         </tr>
+	<tr>	
+	    <th scope="col"> Prioridade: </th> 		
+            <td scope="row"> Essencial </td>
+	</tr>
+	<tr>		            
+	    <th scope="col"> Requisitos associados: </th> 		
+            <td scope="row"> [RNF/SEG-01] </td>
+	</tr>
+	<tr>		
+            <th scope="row"> Entradas e pré-condições: </th>
+	</tr>
+	<tr>		
+            <th scope="row"> Saídas e pós-condições: </th>
+	</tr>
+	<tr>		
+            <th scope="row"> Fluxos de eventos </th>
+	</tr>
+	<tr>		
+            <th scope="row"> Fluxo principal: </th>
+	</tr>
     </tbody>
 </table>
 
