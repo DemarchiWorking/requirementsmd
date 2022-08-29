@@ -431,7 +431,7 @@ O diagrama de casos de uso, expresso em UML (Unified Modeling Language), express
 	</tr>
 	<tr>		
             <th scope="row"> Fluxo principal: </th>
-	    <td> O usuário inicia uma sessão no sistema. <br> O usuário escolhe a opção faturamento. <br> O usuário pode visualizar o faturamento. </td>	
+	    <td> 1. O usuário inicia uma sessão no sistema. <br> 2. O usuário escolhe a opção faturamento. <br> 3. O usuário pode visualizar o faturamento. </td>
 	</tr>
     </tbody>
 </table>
