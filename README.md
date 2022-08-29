@@ -197,7 +197,7 @@ Foram adotadas as seguintes denominações para estabelecer a prioridade dos req
 &nbsp;&nbsp;&nbsp; N/D
 </p>
 
-<h3> 1.5 &nbsp;&nbsp;&nbsp;&nbsp; Visão Geral </h3>  
+<h3> 1.6 &nbsp;&nbsp;&nbsp;&nbsp; Visão Geral </h3>  
 <p>	
 Este documento está organizado da seguinte forma:
 </p>
@@ -388,15 +388,15 @@ O diagrama de casos de uso, expresso em UML (Unified Modeling Language), express
 	</tr>
 	<tr>		            
 	    <th scope="col"> Requisitos associados: </th> 		
-            <td scope="row"> [RNF/SEG-01] </td>
+            <td scope="row"> <li> [RNF/SEG-01] </li> </td>
 	</tr>
 	<tr>		
             <th scope="row"> Entradas e pré-condições: </th>
-	    <td> O usuário deverá executar a aplicação </td>
+	    <td> <li> O usuário deverá executar a aplicação  </li></td>
 	</tr>
 	<tr>		
             <th scope="row"> Saídas e pós-condições: </th>
-	    <td> O usuário consegue realizar as atividades. </td>
+	    <td> <li> O usuário consegue realizar as atividades. </li> </td>
 	</tr>
 	<tr>		
             <th scope="row"> Fluxos de eventos </th>
