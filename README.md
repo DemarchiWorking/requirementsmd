@@ -402,8 +402,7 @@ O diagrama de casos de uso, expresso em UML (Unified Modeling Language), express
     <thead>
         <tr>
             <th>Nome:</th>		
-            <td scope="row">Realizar atividades </td>
-	    <th scope="col"> Entradas e pré-condições: </th> 
+            <td scope="row"> <b> Realizar atividades </b> </td>
         </tr>
     </thead>
     <tbody>
@@ -421,41 +420,24 @@ O diagrama de casos de uso, expresso em UML (Unified Modeling Language), express
 	</tr>
 	<tr>		
             <th scope="row"> Entradas e pré-condições: </th>
+	    <td> O usuário deverá executar a aplicação </td>
 	</tr>
 	<tr>		
             <th scope="row"> Saídas e pós-condições: </th>
+	    <td> O usuário consegue realizar as atividades. </td>
 	</tr>
 	<tr>		
             <th scope="row"> Fluxos de eventos </th>
 	</tr>
 	<tr>		
             <th scope="row"> Fluxo principal: </th>
+	    <td> O usuário inicia uma sessão no sistema. </td>
+	    <td> O usuário escolhe a opção faturamento. </td>
+	    <td> O usuário pode visualizar o faturamento. </td>
+		
 	</tr>
     </tbody>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-O usuário deverá executar a aplicação.
-Saídas e pós-condições:
-O usuário consegue realizar as atividades.
-Fluxos de eventos
-Fluxo principal:
-O usuário inicia uma sessão no sistema.
-O usuário escolhe a opção faturamento.
-O usuário pode visualizar o faturamento.
-
-
-
 
 <br>
 <h2 align="right"> 5 - CLASSE</h2>
