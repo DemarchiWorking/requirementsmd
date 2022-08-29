@@ -33,122 +33,98 @@ Versão 1.0 </br>
   <tr>
 	<td><b>1</b></td>
     <td><b>INTRODUÇÃO</b></td>
-    <td> 4 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 1.1</td>
     <td> &nbsp; &nbsp; &nbsp; Propósito do documento de requisitos </td>
-    <td> 4 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;1.2</td>
     <td> &nbsp; &nbsp; &nbsp;Escopo do produto </td>
-    <td> 4 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;1.3</td>
     <td> &nbsp;&nbsp;&nbsp;Concepção do sistema </td>
-    <td> 4 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4.1</td>
     <td> &nbsp;&nbsp;&nbsp;Convenções, termos e abreviações </td>
-    <td> 4 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4.2</td>
     <td> &nbsp;&nbsp;&nbsp;Prioridade dos Requisitos </td>
-    <td> 4 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;1.5</td>
     <td> &nbsp;&nbsp;&nbsp;Referências </td>
-    <td> 5 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;1.6</td>
     <td> &nbsp;&nbsp;&nbsp; Visão Geral</td>
-    <td> 5 </td>
   </tr>
  <tr>
 	 <td><b>2</b></td>
     <td> <b>DESCRIÇÃO GERAL</b></td>
-    <td> 6 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 2.1</td>
     <td> &nbsp;&nbsp;&nbsp;Usuários do sistema </td>
-    <td> 6 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 2.2</td>
     <td> &nbsp;&nbsp;&nbsp; Abrangência e sistemas similares </td>
-    <td> 6 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 2.3</td>
     <td> &nbsp;&nbsp;&nbsp;Suposições e dependências</td>
-    <td> 6 </td>
   </tr>
   <tr>
 	  <td><b>3</b></td>
     <td> <b>REQUISITOS DO SOFTWARE</b></td>
-    <td> 7 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 3.1</td>
     <td> &nbsp;&nbsp;&nbsp;Requisitos Funcionais </td>
-    <td> 7 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 3.2</td>
     <td> &nbsp;&nbsp;&nbsp;Requisitos Não-funcionais </td>
-    <td> 7 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.2.1</td>
     <td> &nbsp;&nbsp;&nbsp;Requisitos de Segurança </td>
-    <td> 7 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.2.2</td>
     <td> &nbsp;&nbsp;&nbsp;Requisitos de Interface </td>
-    <td> 7 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.2.3</td>
     <td> &nbsp;&nbsp;&nbsp;Requisitos de Operacionais </td>
-    <td> 7 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.2.4</td>
     <td> &nbsp;&nbsp;&nbsp;Requisitos de Confiabilidade </td>
-    <td> 8 </td>
   </tr>
   <tr>
 	  <td><b>4</b></td>
     <td><b>CASOS DE USO</b></td>
-    <td> 9 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 4.1</td>
     <td> &nbsp;&nbsp;&nbsp;Diagrama de casos de uso </td>
-    <td> 9 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 4.2</td>
     <td> &nbsp;&nbsp;&nbsp;Descrição dos casos de uso </td>
-    <td> 9 </td>
   </tr>
    <tr>
 	   <td><b>5</b></td>
 	   <td><b>Classe</b></td>
-    <td> 10 </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 5.1</td>
     <td> &nbsp;&nbsp;&nbsp;Diagrama de Classe</td>
-    <td> 10 </td>
   </tr>
 </table>
 
@@ -198,10 +174,6 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
     <td>Automação robótica de processos</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-  </tr>
-   <tr>
     <td></td>
     <td></td>
   </tr>
