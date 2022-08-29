@@ -154,7 +154,7 @@ Versão 1.0 </br>
 
 </br></br>
 <h1>Documento de Requisitos</h1>
-<h2 align="right">Introdução</h2>
+<h2 align="right">1 - Introdução</h2>
 
 
  <h3> 1.1 &nbsp;&nbsp;&nbsp;&nbsp; Propósito do documento de requisitos</h3>
@@ -240,7 +240,7 @@ Este documento está organizado da seguinte forma:
 
 
 <br>
-<h2 align="right">Descrição geral</h2>
+<h2 align="right">2 - Descrição geral</h2>
 
 <h3> 2.1 &nbsp;&nbsp;&nbsp;&nbsp; Usuários do Sistema </h3>  
 <p>	
@@ -272,7 +272,7 @@ As seguintes suposições são válidas no decorrer do desenvolvimento do sistem
 
 
 <br><br>
-<h2 align="right">Requisitos do Software </h2>
+<h2 align="right">3 - Requisitos do Software </h2>
 
 <h3> 3.1 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos Funcionais </h3>  	
 
@@ -385,7 +385,7 @@ O sistema deverá encerrar a sessão do usuário atual.
 </table>	
 <br>
 		
-<h2 align="right">Casos de uso</h2>
+<h2 align="right"> 4 - Casos de uso</h2>
 <h3> 4.1 &nbsp;&nbsp;&nbsp;&nbsp; Diagrama de casos de uso </h3> 
 <p>
 O diagrama de casos de uso, expresso em UML (Unified Modeling Language), expressa os requisitos funcionais do sistema na forma de casos de uso. Segundo o RUP (Rational Unified Process), para cada requisito funcional tem-se um caso de uso. A descrição textual detalhada dos requisitos funcionais, seus fluxos de atividades e requisitos não funcionais associados pode ser encontrada na próxima seção. Na figura abaixo mostramos a representação gráfica em UML dos casos de uso do sistema.		
@@ -418,7 +418,7 @@ O usuário pode visualizar o faturamento.
 
 
 <br>
-<h2 align="right">Classe</h2>
+<h2 align="right"> 5 - CLASSE</h2>
 <h3> 4.1 &nbsp;&nbsp;&nbsp;&nbsp; Diagrama de Classes </h3> 
 <center><img src="https://i.ibb.co/JFYmSCY/class-users-auth-v3.png"></center>
 
