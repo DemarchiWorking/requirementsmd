@@ -375,35 +375,35 @@ O diagrama de casos de uso, expresso em UML (Unified Modeling Language), express
     <thead>
         <tr>
             <th align="left">Nome:</th>		
-            <td align="left scope="row"> <b> Realizar atividades </b> </td>
+            <td scope="row"> <b> Realizar atividades </b> </td>
         </tr>
     </thead>
     <tbody>
         <tr>		
-            <th scope="col">Atores:</th>
+            <th align="left" scope="col">Atores:</th>
             <td scope="row"> Usuário </td>
         </tr>
 	<tr>	
-	    <th scope="col"> Prioridade: </th> 		
+	    <th align="left" scope="col"> Prioridade: </th> 		
             <td scope="row"> Essencial </td>
 	</tr>
 	<tr>		            
-	    <th scope="col"> Requisitos associados: </th> 		
+	    <th align="left" scope="col"> Requisitos associados: </th> 		
             <td scope="row"> <li> [RNF/SEG-01] </li> </td>
 	</tr>
 	<tr>		
-            <th scope="row"> Entradas e pré-condições: </th>
+            <th align="left" scope="row"> Entradas e pré-condições: </th>
 	    <td> <li> O usuário deverá executar a aplicação  </li></td>
 	</tr>
 	<tr>		
-            <th scope="row"> Saídas e pós-condições: </th>
+            <th align="left" scope="row"> Saídas e pós-condições: </th>
 	    <td> <li> O usuário consegue realizar as atividades. </li> </td>
 	</tr>
 	<tr>		
             <th scope="row"> Fluxos de eventos </th>
 	</tr>
 	<tr>		
-            <th scope="row"> Fluxo principal: </th>
+            <th align="left" scope="row"> Fluxo principal: </th>
 	    <td> 1. O usuário inicia uma sessão no sistema. <br> 2. O usuário escolhe a opção faturamento. <br> 3. O usuário pode visualizar o faturamento. </td>
 	</tr>
     </tbody>
