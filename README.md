@@ -291,9 +291,6 @@ O sistema deverá encerrar a sessão do usuário atual.
             <td scope="row"> O usuário possuir um token para que o sistema tenha certeza que as informações não foram corrompidas ou alteradas durante o trânsito dos dados. 	</td>
             <td scope="row"> </td>
         </tr>
-	
-	- [RNF/SEG-01 -Segurança] 
-
     </tbody>
 </table>
 
