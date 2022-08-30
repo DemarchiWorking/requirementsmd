@@ -253,6 +253,34 @@ As seguintes suposições são válidas no decorrer do desenvolvimento do sistem
 
 <h3 id="requisitosFuncionais"> 3.1 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos Funcionais </h3>  	
 
+<table>
+    <caption>Funcionais</caption>
+    <thead>
+        <tr>
+            <th>Ident.</th>
+            <th scope="col">Descrição</th>
+	    <th scope="col">Casos de uso relacionados</th> 
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">RF-01</th>
+		<td scope="row"> <b>Cadastro de Usuários </b> - O sistema deve ter uma interface amigável, de fácil utilização, ou seja, auto explicável. 	</td>
+            <td scope="row"> </td>
+        </tr>
+	<tr>
+            <th scope="row">RF-02</th>
+		<td scope="row"> <b>Login </b> - O sistema deve ter uma interface amigável, de fácil utilização, ou seja, auto explicável. 	</td>
+            <td scope="row"> </td>
+        </tr>
+	<tr>
+            <th scope="row">RF-03</th>
+		<td scope="row"> <b>Logoff </b> O sistema deverá encerrar a sessão do usuário atual.</td>
+            <td scope="row"> </td>
+        </tr>
+    </tbody>
+</table>
+
 <b>[RF01]</b> Cadastro de Usuários
 O sistema deverá ter um formulário para cadastro de novos usuários.
 
