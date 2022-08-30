@@ -275,20 +275,11 @@ As seguintes suposições são válidas no decorrer do desenvolvimento do sistem
         </tr>
 	<tr>
             <th scope="row">RF-03</th>
-		<td scope="row"> <b>Logoff </b> O sistema deverá encerrar a sessão do usuário atual.</td>
+		<td scope="row"> <b>Logoff </b> -  O sistema deverá encerrar a sessão do usuário atual.</td>
             <td scope="row"> </td>
         </tr>
     </tbody>
 </table>
-
-<b>[RF01]</b> Cadastro de Usuários
-O sistema deverá ter um formulário para cadastro de novos usuários.
-
-<b>[RF02]</b> Login
-O sistema deverá mostrar informações apenas para usuários que fizerem login com suas credenciais de acesso.
-
-<b>[RF03]</b> Logoff
-O sistema deverá encerrar a sessão do usuário atual.
 
 
 <h3 id="requisitosNaoFuncionais"> 3.2 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos Não-funcionais </h3>  
