@@ -1,11 +1,5 @@
 ![header](https://mma.prnewswire.com/media/1807381/Stefanini_Group_Logo.jpg?p=facebook)
 
-Exemplo   | Valor do exemplo
---------- | ------
-Exemplo 1 | R$ 10
-Exemplo 2 | R$ 8
-Exemplo 3 | R$ 7
-Exemplo 4 | R$ 8
 
 <b><h1 align="right">Portal Itaú 2.0</h1></b>
 <h3 align="right">Documento de Requisitos</h3>
@@ -39,7 +33,7 @@ Versão 1.0 </br>
 <table align="center" border="0">
   <tr>
 	<td><b>1</b></td>
-    <td><b>INTRODUÇÃO</b></td>
+    <td href="#introducao"><b>INTRODUÇÃO</b></td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 1.1</td>
@@ -137,7 +131,7 @@ Versão 1.0 </br>
 
 </br></br>
 <h1>Documento de Requisitos</h1>
-<h2 align="right">1 - Introdução</h2>
+<h2 align="right" id="introducao">1 - Introdução</h2>
 
 
  <h3> 1.1 &nbsp;&nbsp;&nbsp;&nbsp; Propósito do documento de requisitos</h3>
