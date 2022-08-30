@@ -125,7 +125,7 @@ Versão 1.0 </br>
   </tr>
    <tr>
 	   <td><b>5</b></td>
-	   <td><a href="#classe"><b>Classe</b></a></td>
+	   <td><a href="#classe"><b>CLASSE</b></a></td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 5.1</td>
