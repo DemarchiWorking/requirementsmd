@@ -374,7 +374,7 @@ O diagrama de casos de uso, expresso em UML (Unified Modeling Language), express
     <caption>[CDU-01]</caption>
     <thead>
         <tr>
-            <th align="right">Nome:</th>		
+            <th align="left">Nome:</th>		
             <td align="left scope="row"> <b> Realizar atividades </b> </td>
         </tr>
     </thead>
