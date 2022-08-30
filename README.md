@@ -254,7 +254,6 @@ As seguintes suposições são válidas no decorrer do desenvolvimento do sistem
 <h3 id="requisitosFuncionais"> 3.1 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos Funcionais </h3>  	
 
 <table>
-    <caption>Funcionais</caption>
     <thead>
         <tr>
             <th>Ident.</th>
@@ -291,7 +290,6 @@ As seguintes suposições são válidas no decorrer do desenvolvimento do sistem
 <h3 id="requisitosSeguranca"> 3.2.1 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Segurança </h3>  
 
 <table>
-    <caption>Requisitos de Segurança</caption>
     <thead>
         <tr>
             <th>Ident.</th>
@@ -318,7 +316,6 @@ As seguintes suposições são válidas no decorrer do desenvolvimento do sistem
 <h3 id="requisitosInterface"> 3.2.2 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Interface </h3>  
 
 <table>
-    <caption>Requisitos de Interface</caption>
     <thead>
         <tr>
             <th>Ident.</th>
@@ -338,7 +335,6 @@ As seguintes suposições são válidas no decorrer do desenvolvimento do sistem
 <h3 id="requisitosOperacionais"> 3.2.3 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Operacionais </h3>  
 	
 <table>
-    <caption>Requisitos de Interface</caption>
     <thead>
         <tr>
             <th>Ident.</th>
@@ -368,7 +364,6 @@ As seguintes suposições são válidas no decorrer do desenvolvimento do sistem
 <h3 id="requisitosConfiabilidade"> 3.2.4 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Confiabilidade </h3> 
 		
 <table>
-    <caption>Requisitos de Interface</caption>
     <thead>
         <tr>
             <th>Ident.</th>
