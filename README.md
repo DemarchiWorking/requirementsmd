@@ -37,11 +37,11 @@ Versão 1.0 </br>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;1.1</td>
-	  <td> &nbsp;&nbsp;&nbsp;<a href="#propositoDocumentoRequisitos">Propósito do documento de requisitos </a> </td>
+	  <td> &nbsp;&nbsp;&nbsp; <a href="#propositoDocumentoRequisitos">Propósito do documento de requisitos </a> </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;1.2</td>
-	  <td> &nbsp;&nbsp;&nbsp;<a href="#escopoProduto">Escopo do produto </a> </td>
+	  <td> &nbsp;&nbsp;&nbsp; <a href="#escopoProduto">Escopo do produto </a> </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;1.3</td>
