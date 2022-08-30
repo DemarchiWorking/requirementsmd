@@ -37,95 +37,95 @@ Versão 1.0 </br>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 1.1</td>
-    <td> &nbsp; &nbsp; &nbsp; Propósito do documento de requisitos </td>
+	  <td> &nbsp; &nbsp; &nbsp; <a href="propositoDocumentoRequisitos"> Propósito do documento de requisitos </a> </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;1.2</td>
-    <td> &nbsp; &nbsp; &nbsp;Escopo do produto </td>
+    <td> &nbsp; &nbsp; &nbsp; <a href="">Escopo do produto </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;1.3</td>
-    <td> &nbsp;&nbsp;&nbsp;Concepção do sistema </td>
+    <td> &nbsp;&nbsp;&nbsp; <a href="">Concepção do sistema </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4.1</td>
-    <td> &nbsp;&nbsp;&nbsp;Convenções, termos e abreviações </td>
+    <td> &nbsp;&nbsp;&nbsp; <a href="">Convenções, termos e abreviações </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4.2</td>
-    <td> &nbsp;&nbsp;&nbsp;Prioridade dos Requisitos </td>
+    <td> &nbsp;&nbsp;&nbsp; <a href="">Prioridade dos Requisitos </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;1.5</td>
-    <td> &nbsp;&nbsp;&nbsp;Referências </td>
+    <td> &nbsp;&nbsp;&nbsp; <a href="">Referências </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;1.6</td>
-    <td> &nbsp;&nbsp;&nbsp; Visão Geral</td>
+    <td> &nbsp;&nbsp;&nbsp; <a href=""> Visão Geral</td>
   </tr>
  <tr>
 	 <td><b>2</b></td>
-    <td> <b>DESCRIÇÃO GERAL</b></td>
+    <td> <b><a href="">DESCRIÇÃO GERAL</b></td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 2.1</td>
-    <td> &nbsp;&nbsp;&nbsp;Usuários do sistema </td>
+    <td> &nbsp;&nbsp;&nbsp;<a href=""> <a href="">Usuários do sistema </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 2.2</td>
-    <td> &nbsp;&nbsp;&nbsp; Abrangência e sistemas similares </td>
+    <td> &nbsp;&nbsp;&nbsp; <a href="">Abrangência e sistemas similares </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 2.3</td>
-    <td> &nbsp;&nbsp;&nbsp;Suposições e dependências</td>
+    <td> &nbsp;&nbsp;&nbsp; <a href="">Suposições e dependências</td>
   </tr>
   <tr>
 	  <td><b>3</b></td>
-    <td> <b>REQUISITOS DO SOFTWARE</b></td>
+    <td> <b><a href="">REQUISITOS DO SOFTWARE</b></td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 3.1</td>
-    <td> &nbsp;&nbsp;&nbsp;Requisitos Funcionais </td>
+    <td> &nbsp;&nbsp;&nbsp;<a href="">Requisitos Funcionais </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 3.2</td>
-    <td> &nbsp;&nbsp;&nbsp;Requisitos Não-funcionais </td>
+    <td> &nbsp;&nbsp;&nbsp;<a href="">Requisitos Não-funcionais </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.2.1</td>
-    <td> &nbsp;&nbsp;&nbsp;Requisitos de Segurança </td>
+    <td> &nbsp;&nbsp;&nbsp;<a href="">Requisitos de Segurança </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.2.2</td>
-    <td> &nbsp;&nbsp;&nbsp;Requisitos de Interface </td>
+    <td> &nbsp;&nbsp;&nbsp;<a href="">Requisitos de Interface </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.2.3</td>
-    <td> &nbsp;&nbsp;&nbsp;Requisitos de Operacionais </td>
+    <td> &nbsp;&nbsp;&nbsp;<a href="">Requisitos de Operacionais </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.2.4</td>
-    <td> &nbsp;&nbsp;&nbsp;Requisitos de Confiabilidade </td>
+    <td> &nbsp;&nbsp;&nbsp;<a href="">Requisitos de Confiabilidade </td>
   </tr>
   <tr>
 	  <td><b>4</b></td>
-    <td><b>CASOS DE USO</b></td>
+    <td><a href=""><b> CASOS DE USO</b><a></td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 4.1</td>
-    <td> &nbsp;&nbsp;&nbsp;Diagrama de casos de uso </td>
+    <td> &nbsp;&nbsp;&nbsp;<a href="">Diagrama de casos de uso <a> </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 4.2</td>
-    <td> &nbsp;&nbsp;&nbsp;Descrição dos casos de uso </td>
+    <td> &nbsp;&nbsp;&nbsp; <a href="">Descrição dos casos de uso </td>
   </tr>
    <tr>
 	   <td><b>5</b></td>
-	   <td><b>Classe</b></td>
+	   <td><a href=""><b>Classe</b></a></td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp; 5.1</td>
-    <td> &nbsp;&nbsp;&nbsp;Diagrama de Classe</td>
+    <td> &nbsp;&nbsp;&nbsp; <a href="">Diagrama de Classe</td>
   </tr>
 </table>
 
@@ -134,12 +134,12 @@ Versão 1.0 </br>
 <h2 align="right" id="introducao">1 - Introdução</h2>
 
 
- <h3> 1.1 &nbsp;&nbsp;&nbsp;&nbsp; Propósito do documento de requisitos</h3>
+ <h3 id="propositoDocumentoRequisitos"> 1.1 &nbsp;&nbsp;&nbsp;&nbsp; Propósito do documento de requisitos</h3>
 
 <p>Documentação tem o intuito de expressar as funcionalidades do sistema.</p>
 
 
- <h3> 1.2 &nbsp;&nbsp;&nbsp;&nbsp; Escopo do produto</h3>
+ <h3 id="escopoProduto"> 1.2 &nbsp;&nbsp;&nbsp;&nbsp; Escopo do produto</h3>
 <p>O projeto consiste na documentação e refatoração de um portal, utilizando uma arquitetura de microsserviços. </p>
 
 <ol>
@@ -159,12 +159,12 @@ Versão 1.0 </br>
 </ol>
 </br>
 
-<h3> 1.3 &nbsp;&nbsp;&nbsp;&nbsp; Concepção do sistema</h3>  
+<h3 id="concepcaoSistema"> 1.3 &nbsp;&nbsp;&nbsp;&nbsp; Concepção do sistema</h3>  
 <p>
 &nbsp;&nbsp;&nbsp; N/D
 </p>
 
-<h3> 1.4 &nbsp;&nbsp;&nbsp;&nbsp;  Convenções, termos e abreviações </h3>
+<h3 id="convencoesTermosAbreviacoes"> 1.4 &nbsp;&nbsp;&nbsp;&nbsp;  Convenções, termos e abreviações </h3>
 <p>
 Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
 </p>
@@ -180,12 +180,12 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
   </tr>
 </table>
 
-<h3> 1.4.1 &nbsp;&nbsp;&nbsp;&nbsp; Identificação dos Requisitos </h3>
+<h3 id="identificacaoRequisitos"> 1.4.1 &nbsp;&nbsp;&nbsp;&nbsp; Identificação dos Requisitos </h3>
 <p>
 Cada requisito será unicamente identificado no formato [tipoRequisito.numero]. Para requisitos funcionais, o código do tipo de requisito será RF, e para requisitos não funcionais, RNF. Um número será assinalado a cada requisito de forma incremental, na ordem que forem mencionados neste documento.
 </p>
 
-<h3> 1.4.2 &nbsp;&nbsp;&nbsp;&nbsp; Prioridade dos Requisitos </h3>
+<h3 id="prioridadeRequisitos"> 1.4.2 &nbsp;&nbsp;&nbsp;&nbsp; Prioridade dos Requisitos </h3>
 <p>
 Foram adotadas as seguintes denominações para estabelecer a prioridade dos requisitos: essencial, importante e desejável. </br>
 <b>Essencial:</b> é o requisito sem o qual o sistema não entra em funcionamento, ou seja, são requisitos imprescindíveis tendo que ser implementados impreterivelmente.</br> 
@@ -193,12 +193,12 @@ Foram adotadas as seguintes denominações para estabelecer a prioridade dos req
 <b>Desejável:</b> é o requisito que não compromete as funcionalidades básicas do sistema, podendo funcionar de forma satisfatória sem ele, ou seja, são requisitos que podem ser deixados para versões posteriores do sistema, caso não haja tempo hábil para implementá-los na versão que está sendo especificada. 	
 </p>
 </br></br>
-<h3> 1.5 &nbsp;&nbsp;&nbsp;&nbsp; Referências</h3>  
+<h3 id="referencias"> 1.5 &nbsp;&nbsp;&nbsp;&nbsp; Referências</h3>  
 <p>
 &nbsp;&nbsp;&nbsp; N/D
 </p>
 
-<h3> 1.6 &nbsp;&nbsp;&nbsp;&nbsp; Visão Geral </h3>  
+<h3 id="visaoGeral"> 1.6 &nbsp;&nbsp;&nbsp;&nbsp; Visão Geral </h3>  
 <p>	
 Este documento está organizado da seguinte forma:
 </p>
@@ -213,15 +213,15 @@ Este documento está organizado da seguinte forma:
 
 
 <br>
-<h2 align="right">2 - Descrição geral</h2>
+<h2 align="right" id="descricaoGeral">2 - Descrição geral</h2>
 
-<h3> 2.1 &nbsp;&nbsp;&nbsp;&nbsp; Usuários do Sistema </h3>  
+<h3 id="usuariosSistema"> 2.1 &nbsp;&nbsp;&nbsp;&nbsp; Usuários do Sistema </h3>  
 <p>	
 <b>Usuário: </b>Tem acesso a funções do sistema (exemplo: gestão,  faturamento, fornecedores, indicadores entre outros).</p>
 
 <p><b>Administrador: </b>Tem acesso ao painel administrativo e aos logs do sistema.</p>
 
-<h3> 2.2 &nbsp;&nbsp;&nbsp;&nbsp; Abrangência e sistemas similares </h3>  
+<h3 id="abrangenciaSimilares"> 2.2 &nbsp;&nbsp;&nbsp;&nbsp; Abrangência e sistemas similares </h3>  
 <p>
 <b>Abrangência:</b>  
 O sistema terá como objetivo carregar, visualizar e processar informações estratégicas do Itaú.
@@ -233,7 +233,7 @@ O sistema terá como objetivo carregar, visualizar e processar informações est
 <i>Bots.</i></br>
 
 
-<h3> 2.3 &nbsp;&nbsp;&nbsp;&nbsp; Suposições e dependências </h3>  
+<h3 id="suposicoesDependencias"> 2.3 &nbsp;&nbsp;&nbsp;&nbsp; Suposições e dependências </h3>  
 <p>
 As seguintes suposições são válidas no decorrer do desenvolvimento do sistema sendo especificado:</p>
 
@@ -245,9 +245,9 @@ As seguintes suposições são válidas no decorrer do desenvolvimento do sistem
 
 
 <br><br>
-<h2 align="right">3 - Requisitos do Software </h2>
+<h2 align="right" id="requisitosSoftware">3 - Requisitos do Software </h2>
 
-<h3> 3.1 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos Funcionais </h3>  	
+<h3 id="requisitosFuncionais"> 3.1 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos Funcionais </h3>  	
 
 <b>[RF01]</b> Cadastro de Usuários
 O sistema deverá ter um formulário para cadastro de novos usuários.
@@ -259,13 +259,13 @@ O sistema deverá mostrar informações apenas para usuários que fizerem login 
 O sistema deverá encerrar a sessão do usuário atual.
 
 
-<h3> 3.2 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos Não-funcionais </h3>  
+<h3 id="requisitosNaoFuncionais"> 3.2 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos Não-funcionais </h3>  
 <p>
 	Os requisitos que descrevem os aspectos não-funcionais do sistema são apresentados a seguir:
 </p>
 
 		
-<h3> 3.2.1 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Segurança </h3>  
+<h3 id="requisitosSeguranca"> 3.2.1 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Segurança </h3>  
 
 <table>
     <caption>Requisitos de Segurança</caption>
@@ -287,7 +287,7 @@ O sistema deverá encerrar a sessão do usuário atual.
 
 
 
-<h3> 3.2.2 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Interface </h3>  
+<h3 id="requisitosInterface"> 3.2.2 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Interface </h3>  
 
 <table>
     <caption>Requisitos de Interface</caption>
@@ -307,7 +307,7 @@ O sistema deverá encerrar a sessão do usuário atual.
     </tbody>
 </table>
 
-<h3> 3.2.3 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Operacionais </h3>  
+<h3 id="requisitosOperacionais"> 3.2.3 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Operacionais </h3>  
 	
 <table>
     <caption>Requisitos de Interface</caption>
@@ -337,7 +337,7 @@ O sistema deverá encerrar a sessão do usuário atual.
     </tbody>
 </table>
 		
-<h3> 3.2.4 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Confiabilidade </h3> 
+<h3 id="requisitosConfiabilidade"> 3.2.4 &nbsp;&nbsp;&nbsp;&nbsp; Requisitos de Confiabilidade </h3> 
 		
 <table>
     <caption>Requisitos de Interface</caption>
@@ -358,15 +358,15 @@ O sistema deverá encerrar a sessão do usuário atual.
 </table>	
 <br>
 		
-<h2 align="right"> 4 - Casos de uso</h2>
-<h3> 4.1 &nbsp;&nbsp;&nbsp;&nbsp; Diagrama de casos de uso </h3> 
+<h2 align="right" id="casoUso"> 4 - Casos de uso</h2>
+<h3 id="DiagramaCasoDeUso"> 4.1 &nbsp;&nbsp;&nbsp;&nbsp; Diagrama de casos de uso </h3> 
 <p>
 O diagrama de casos de uso, expresso em UML (Unified Modeling Language), expressa os requisitos funcionais do sistema na forma de casos de uso. Segundo o RUP (Rational Unified Process), para cada requisito funcional tem-se um caso de uso. A descrição textual detalhada dos requisitos funcionais, seus fluxos de atividades e requisitos não funcionais associados pode ser encontrada na próxima seção. Na figura abaixo mostramos a representação gráfica em UML dos casos de uso do sistema.		
 </p>
 
 <center><img src="https://i.ibb.co/bBcb1JR/image.png"></center>
 		
-<h3> 4.2 &nbsp;&nbsp;&nbsp;&nbsp; Descrição dos casos de uso </h3> 
+<h3 id="descricaoCasoUso"> 4.2 &nbsp;&nbsp;&nbsp;&nbsp; Descrição dos casos de uso </h3> 
 
 
 
@@ -410,8 +410,8 @@ O diagrama de casos de uso, expresso em UML (Unified Modeling Language), express
 </table>
 
 <br>
-<h2 align="right"> 5 - CLASSE</h2>
-<h3> 5.1 &nbsp;&nbsp;&nbsp;&nbsp; Diagrama de Classes </h3> 
+<h2 align="right" id="classe"> 5 - CLASSE</h2>
+<h3 id="diagramaClasses"> 5.1 &nbsp;&nbsp;&nbsp;&nbsp; Diagrama de Classes </h3> 
 <center><img src="https://i.ibb.co/JFYmSCY/class-users-auth-v3.png"></center>
 
 
