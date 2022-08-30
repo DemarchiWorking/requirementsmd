@@ -286,6 +286,14 @@ O sistema deverá encerrar a sessão do usuário atual.
             <td scope="row"> O usuário autorizado deverá efetuar login para poder realizar as operações no sistema. 	</td>
             <td scope="row"> </td>
         </tr>
+	 <tr>
+            <th scope="row">RNF/SEG-02</th>
+            <td scope="row"> O usuário possuir um token para que o sistema tenha certeza que as informações não foram corrompidas ou alteradas durante o trânsito dos dados. 	</td>
+            <td scope="row"> </td>
+        </tr>
+	
+	- [RNF/SEG-01 -Segurança] 
+
     </tbody>
 </table>
 
