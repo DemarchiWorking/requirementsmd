@@ -1,5 +1,12 @@
 ![header](https://mma.prnewswire.com/media/1807381/Stefanini_Group_Logo.jpg?p=facebook)
 
+Exemplo   | Valor do exemplo
+--------- | ------
+Exemplo 1 | R$ 10
+Exemplo 2 | R$ 8
+Exemplo 3 | R$ 7
+Exemplo 4 | R$ 8
+
 <b><h1 align="right">Portal Itaú 2.0</h1></b>
 <h3 align="right">Documento de Requisitos</h3>
 <b><p align="right">	
