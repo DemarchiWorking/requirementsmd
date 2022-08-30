@@ -36,12 +36,12 @@ Versão 1.0 </br>
 	  <td><a href="#introducao"><b>INTRODUÇÃO</b></a></td>
   </tr>
   <tr>
-    <td> &nbsp;&nbsp; 1.1</td>
-	  <td> &nbsp; &nbsp; &nbsp; <a href="#propositoDocumentoRequisitos"> Propósito do documento de requisitos </a> </td>
+    <td> &nbsp;&nbsp;1.1</td>
+	  <td> &nbsp; &nbsp; &nbsp;<a href="#propositoDocumentoRequisitos"> Propósito do documento de requisitos </a> </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;1.2</td>
-	  <td> &nbsp; &nbsp; &nbsp; <a href="#escopoProduto">Escopo do produto </a> </td>
+	  <td> &nbsp; &nbsp; &nbsp;<a href="#escopoProduto">Escopo do produto </a> </td>
   </tr>
   <tr>
     <td> &nbsp;&nbsp;1.3</td>
